@@ -1,0 +1,49 @@
+/* ============================================================
+   OpenEconomics — Header / Nav condiviso (brand 2.0)
+   Barra fissa bianca traslucida, logo nero, voci in Atkinson 16px,
+   voce attiva sottolineata in lime. Usa solo token --oe-*.
+   Va linkato DOPO il CSS di pagina, così prevale su un .nav preesistente.
+   Markup: templates/pagina-base.html. Menu mobile: oe-page.js.
+   ============================================================ */
+.nav{position:fixed;top:0;left:0;right:0;z-index:100;height:var(--oe-nav-h,62px);padding:0 48px;display:flex;align-items:center;gap:28px;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--oe-gray-200);font-family:var(--oe-font-sans);}
+.nav__logo-link{display:flex;align-items:center;gap:16px;text-decoration:none;flex-shrink:0;}
+.nav__logo-img{height:18px;width:auto;display:block;}
+.nav__badge{font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--oe-accent);border-left:1.5px solid var(--oe-accent);padding-left:12px;line-height:1;}
+.nav__links{display:flex;align-items:center;gap:26px;list-style:none;margin:0 0 0 auto;padding:0;}
+.nav__links a{position:relative;display:inline-block;font-weight:400;font-size:16px;color:var(--oe-black);text-decoration:none;padding:6px 0;transition:color var(--oe-dur-fast) ease;}
+.nav__links a:hover,.nav__links a.nav-active,.nav__links a[aria-current]{color:var(--oe-accent);}
+.nav__links a.nav-active::after,.nav__links a[aria-current]::after{content:'';position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--oe-pop);}
+
+/* Azioni a destra: CTA piena, login bordato, download a icona */
+.nav__cta,.nav__login{display:inline-flex;align-items:center;gap:9px;flex-shrink:0;font-weight:700;font-size:13px;letter-spacing:.04em;text-transform:uppercase;text-decoration:none;min-height:40px;padding:0 18px;transition:background var(--oe-dur-base) ease,color var(--oe-dur-base) ease;}
+.nav__cta{background:var(--oe-accent);color:var(--oe-accent-on);}
+.nav__cta:hover{background:var(--oe-accent-strong);color:var(--oe-accent-on);}
+.nav__login{border:1.5px solid var(--oe-accent);color:var(--oe-accent);}
+.nav__login:hover{background:var(--oe-accent);color:var(--oe-accent-on);}
+.nav__download{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:40px;height:40px;border:1.5px solid var(--oe-accent);color:var(--oe-accent);text-decoration:none;transition:background var(--oe-dur-base) ease,color var(--oe-dur-base) ease;}
+.nav__download:hover{background:var(--oe-accent);color:var(--oe-accent-on);}
+.nav__cta svg,.nav__login svg,.nav__download svg{width:16px;height:16px;stroke:currentColor;stroke-width:1.9;fill:none;flex-shrink:0;}
+
+/* Toggle menu: visibile solo sotto 960px */
+.nav__toggle{display:none;width:44px;height:44px;align-items:center;justify-content:center;background:none;border:0;color:var(--oe-black);cursor:pointer;}
+.nav__toggle svg{width:24px;height:24px;stroke:currentColor;stroke-width:1.75;fill:none;stroke-linecap:round;}
+.nav__toggle .nav__icon-close{display:none;}
+.nav.is-open .nav__toggle .nav__icon-open{display:none;}
+.nav.is-open .nav__toggle .nav__icon-close{display:block;}
+
+@media(max-width:960px){
+  .nav{padding:0 24px;gap:12px;}
+  .nav__logo-link{margin-right:auto;}
+  .nav__toggle{display:inline-flex;}
+  .nav__links{display:none;position:absolute;top:100%;left:0;right:0;margin:0;flex-direction:column;align-items:stretch;gap:0;background:var(--oe-white);border-bottom:1px solid var(--oe-gray-200);padding:8px 24px 16px;}
+  .nav.is-open .nav__links{display:flex;}
+  .nav__links a{display:block;padding:14px 0;border-bottom:1px solid var(--oe-gray-100);}
+  .nav__links a.nav-active::after,.nav__links a[aria-current]::after{display:none;}
+  .nav__cta,.nav__login,.nav__download{order:1;}
+  .nav__toggle{order:2;}
+}
+@media(max-width:600px){
+  .nav__badge{display:none;}
+  .nav__login span,.nav__cta span{display:none;}
+  .nav__cta,.nav__login{padding:0 12px;}
+}

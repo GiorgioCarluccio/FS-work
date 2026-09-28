@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anteprima del kit | OpenEconomics</title>
+<meta name="description" content="Pagina di prova del kit di brand OpenEconomics: tutti i componenti, dati fittizi.">
+<link rel="icon" type="image/png" media="(prefers-color-scheme: light)" href="../assets/icons/favicon-black.png">
+<link rel="icon" type="image/png" media="(prefers-color-scheme: dark)" href="../assets/icons/favicon-white.png">
+<link rel="stylesheet" href="../assets/oe-tokens.css">
+<link rel="stylesheet" href="../assets/oe-base.css">
+<link rel="stylesheet" href="../assets/nav.css">
+<link rel="stylesheet" href="../assets/footer.css">
+<link rel="stylesheet" href="../assets/oe-components.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+<script src="../assets/oe-charts.js" defer></script>
+<script src="../assets/lucide-inline.js" defer></script>
+<script src="../assets/oe-page.js" defer></script>
+</head>
+<body>
+<a class="oe-skip" href="#main">Vai al contenuto</a>
+
+<header>
+  <nav class="nav" aria-label="Principale">
+    <a href="#top" class="nav__logo-link" aria-label="OpenEconomics — inizio pagina">
+      <img src="../assets/logo/logo-black.svg" alt="OpenEconomics" class="nav__logo-img" width="142" height="18">
+      <span class="nav__badge">Studies</span>
+    </a>
+    <ul class="nav__links">
+      <li><a href="#sintesi">Sintesi</a></li>
+      <li><a href="#risultati">Risultati</a></li>
+      <li><a href="#approccio">Approccio</a></li>
+      <li><a href="#dati">Dati</a></li>
+    </ul>
+    <a class="nav__cta" href="#dati"><i data-lucide="download"></i><span>Scarica il report</span></a>
+    <button class="nav__toggle" type="button" aria-expanded="false" aria-label="Apri il menu">
+      <svg class="nav__icon-open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      <svg class="nav__icon-close" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+    </button>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="oe-hero" id="top">
+    <div class="oe-hero__body">
+      <div class="oe-hero__top">
+        <span class="oe-chip oe-chip--sm"><i data-lucide="landmark"></i>Anteprima del kit</span>
+        <p class="oe-hero__kicker">Dati fittizi · nessun cliente reale</p>
+      </div>
+      <div>
+        <h1 class="oe-hero__title">Un programma di esempio,<br><em>letto con i dati</em></h1>
+        <p class="oe-hero__lead">Questa pagina serve a controllare che il kit funzioni: font, colori, componenti, grafici, nav e footer. I numeri sono inventati e non descrivono nessun progetto.</p>
+        <dl class="oe-hero__meta">
+          <div class="oe-hero__meta-item"><dt class="oe-hero__meta-label">Livello</dt><dd class="oe-hero__meta-value">Regionale</dd></div>
+          <div class="oe-hero__meta-item"><dt class="oe-hero__meta-label">Periodo</dt><dd class="oe-hero__meta-value">2024–2026</dd></div>
+          <div class="oe-hero__meta-item"><dt class="oe-hero__meta-label">Formato</dt><dd class="oe-hero__meta-value">Pagina web</dd></div>
+        </dl>
+        <div class="oe-hero__actions">
+          <a class="oe-btn oe-btn--pop" href="#risultati">Vai ai risultati <i data-lucide="arrow-right"></i></a>
+          <a class="oe-btn oe-btn--on-dark" href="#approccio">Come leggiamo i dati</a>
+        </div>
+      </div>
+    </div>
+    <div class="oe-hero__media" role="img" aria-label="Gradiente Bluette al posto dell'immagine">
+      <p class="oe-hero__caption"><span>Immagine di copertina</span><strong>Gradiente di default</strong></p>
+    </div>
+  </section>
+
+  <section class="oe-section oe-section--grey" id="sintesi" aria-labelledby="t-sintesi">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">Sezione 01</span>
+        <h2 class="oe-section-head__title" id="t-sintesi">Sintesi</h2>
+        <p class="oe-section-head__lead">Tre numeri per capire il programma in trenta secondi.</p>
+      </header>
+      <div class="oe-tiles oe-tiles--3">
+        <article class="oe-card">
+          <span class="oe-card__icon"><i data-lucide="users"></i></span>
+          <p class="oe-card__label">Partecipanti</p>
+          <p class="oe-card__value">12.480</p>
+          <h3 class="oe-card__title">Persone raggiunte</h3>
+          <p class="oe-card__text">Il numero a quattro cifre e oltre si raggruppa sempre con il punto.</p>
+        </article>
+        <article class="oe-card">
+          <span class="oe-card__icon"><i data-lucide="map-pin"></i></span>
+          <p class="oe-card__label">Territori</p>
+          <p class="oe-card__value">38</p>
+          <h3 class="oe-card__title">Comuni coinvolti</h3>
+          <p class="oe-card__text">Descrizione di card in una sola frase, tono asciutto.</p>
+        </article>
+        <a class="oe-card" href="#dati">
+          <span class="oe-card__icon"><i data-lucide="file-text"></i></span>
+          <p class="oe-card__label">Documento</p>
+          <p class="oe-card__value">4,2 mln €</p>
+          <h3 class="oe-card__title">Risorse del programma</h3>
+          <p class="oe-card__text">Card cliccabile: solleva e si colora al passaggio.</p>
+        </a>
+      </div>
+      <div class="oe-stats">
+        <div class="oe-stat"><p class="oe-stat__label">Durata</p><p class="oe-stat__value">36 mesi</p><p class="oe-stat__sub">da gennaio 2024</p></div>
+        <div class="oe-stat"><p class="oe-stat__label">Enti partner</p><p class="oe-stat__value">14</p><p class="oe-stat__sub">pubblici e privati</p></div>
+        <div class="oe-stat"><p class="oe-stat__label">Quota digitale</p><p class="oe-stat__value">27,5%</p><p class="oe-stat__sub">delle attività</p></div>
+        <div class="oe-stat"><p class="oe-stat__label">Soddisfazione</p><p class="oe-stat__value">8,1/10</p><p class="oe-stat__sub">su 2.150 risposte</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="oe-section" id="risultati" aria-labelledby="t-risultati">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">Sezione 02</span>
+        <h2 class="oe-section-head__title" id="t-risultati">Risultati</h2>
+        <p class="oe-section-head__lead">Grandi numeri, grafici con numero e fonte, elenchi ordinati per peso.</p>
+      </header>
+      <div class="oe-tiles oe-tiles--3">
+        <div class="oe-kpi oe-kpi--dark">
+          <p class="oe-kpi__label">Indicatore principale</p>
+          <p class="oe-kpi__value">1,85</p>
+          <p class="oe-kpi__text">Euro di valore generato per ogni euro investito (numero di esempio).</p>
+        </div>
+        <div class="oe-kpi">
+          <span class="oe-kpi__icon"><img src="../assets/icons/icon-pil.png" alt=""></span>
+          <p class="oe-kpi__label">Valore aggiunto</p>
+          <p class="oe-kpi__value">4,80</p>
+          <p class="oe-kpi__unit">mln € attivati nel perimetro</p>
+          <p class="oe-kpi__text">Icona illustrativa del set OE (PNG) al posto della Lucide.</p>
+        </div>
+        <div class="oe-kpi">
+          <span class="oe-kpi__icon"><i data-lucide="trending-up"></i></span>
+          <p class="oe-kpi__label">Crescita</p>
+          <p class="oe-kpi__value">+14,2%</p>
+          <p class="oe-kpi__unit">rispetto al 2023</p>
+          <p class="oe-kpi__text">KPI chiaro, barra laterale Bluette.</p>
+        </div>
+      </div>
+
+      <div class="oe-split">
+        <div>
+          <h3 class="oe-subhead">Dove si concentra l'effetto</h3>
+          <ol class="oe-rank" style="margin-top:28px">
+            <li class="oe-rank__item" style="--bar:var(--oe-bluette-900)">
+              <span class="oe-rank__bar" aria-hidden="true"></span>
+              <div class="oe-rank__main"><p class="oe-rank__title">Area di intervento</p><p class="oe-rank__text">La quota principale ha il viola più scuro.</p></div>
+              <div class="oe-rank__meta"><p class="oe-rank__pct">52,0%</p><p class="oe-rank__value">2,60 mln €</p></div>
+            </li>
+            <li class="oe-rank__item" style="--bar:var(--oe-bluette-500)">
+              <span class="oe-rank__bar" aria-hidden="true"></span>
+              <div class="oe-rank__main"><p class="oe-rank__title">Resto della regione</p><p class="oe-rank__text">Le categorie successive scalano verso il chiaro.</p></div>
+              <div class="oe-rank__meta"><p class="oe-rank__pct">33,0%</p><p class="oe-rank__value">1,65 mln €</p></div>
+            </li>
+            <li class="oe-rank__item" style="--bar:var(--oe-gray-400)">
+              <span class="oe-rank__bar" aria-hidden="true"></span>
+              <div class="oe-rank__main"><p class="oe-rank__title">Resto del Paese</p><p class="oe-rank__text">Il residuo aggregato è sempre grigio.</p></div>
+              <div class="oe-rank__meta"><p class="oe-rank__pct">15,0%</p><p class="oe-rank__value">0,75 mln €</p></div>
+            </li>
+          </ol>
+        </div>
+        <figure class="oe-figure">
+          <figcaption>
+            <p class="oe-figure__label">Grafico 1</p>
+            <h3 class="oe-figure__title">Distribuzione territoriale del valore aggiunto</h3>
+            <p class="oe-figure__text">Stessi dati dell'elenco: rampa viola, residuo grigio, nessun lime.</p>
+          </figcaption>
+          <div class="oe-figure__chart" style="--h:300px"><canvas id="g-territori"></canvas></div>
+          <p class="oe-figure__source">Fonte: elaborazione OpenEconomics su dati di esempio.</p>
+        </figure>
+      </div>
+
+      <div class="oe-split--even oe-split">
+        <figure class="oe-figure">
+          <figcaption>
+            <p class="oe-figure__label">Grafico 2</p>
+            <h3 class="oe-figure__title">Effetti per componente</h3>
+            <p class="oe-figure__text">Barre impilate con la rampa «componenti».</p>
+          </figcaption>
+          <div class="oe-figure__chart" style="--h:320px"><canvas id="g-componenti"></canvas></div>
+          <p class="oe-figure__source">Fonte: dati di esempio.</p>
+        </figure>
+        <figure class="oe-figure">
+          <figcaption>
+            <p class="oe-figure__label">Grafico 3</p>
+            <h3 class="oe-figure__title">Composizione per voce</h3>
+            <p class="oe-figure__text">Ciambella: prima voce viola scuro, residuo grigio.</p>
+          </figcaption>
+          <div class="oe-figure__chart" style="--h:320px"><canvas id="g-voci"></canvas></div>
+          <p class="oe-figure__source">Fonte: dati di esempio.</p>
+        </figure>
+      </div>
+
+      <div class="oe-callout"><p><strong>Il riquadro lime chiude un ragionamento.</strong> Una o due frasi, testo Bluette 900 su lime: è l'unico uso del lime come fondo di un blocco di testo. Uno per sezione al massimo.</p></div>
+    </div>
+  </section>
+
+  <section class="oe-section oe-section--dark" id="approccio" aria-labelledby="t-approccio">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">Sezione 03</span>
+        <h2 class="oe-section-head__title" id="t-approccio">Approccio</h2>
+        <p class="oe-section-head__lead">Sezione scura su Bluette 900, mai su nero puro.</p>
+      </header>
+      <div class="oe-split--even oe-split">
+        <div class="oe-prose">
+          <p>Su fondo scuro il testo corrente è grigio chiaro, <strong>le parole chiave in lime</strong>. I titoli restano bianchi, in Hedvig.</p>
+          <p>Il focus da tastiera diventa lime: prova a navigare con Tab.</p>
+        </div>
+        <ol class="oe-steps">
+          <li class="oe-step"><div><h3>Definizione del perimetro</h3><p>Cosa entra nell'analisi e cosa resta fuori, con il motivo.</p></div></li>
+          <li class="oe-step"><div><h3>Raccolta e verifica dei dati</h3><p>Ogni numero ha una fonte dichiarata sotto la tabella o il grafico.</p></div></li>
+          <li class="oe-step"><div><h3>Limiti e avvertenze</h3><p>L'ultimo passo dichiara sempre cosa i numeri non dicono.</p></div></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="oe-section oe-section--grey" id="dati" aria-labelledby="t-dati">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">Sezione 04</span>
+        <h2 class="oe-section-head__title" id="t-dati">Dati e ipotesi</h2>
+      </header>
+      <div class="oe-params">
+        <div class="oe-param"><p class="oe-param__label">Orizzonte</p><p class="oe-param__value">20 anni</p><p class="oe-param__text">Due di realizzazione, diciotto di esercizio.</p></div>
+        <div class="oe-param"><p class="oe-param__label">Tasso di sconto</p><p class="oe-param__value">3,0%</p><p class="oe-param__text">Valore di esempio.</p></div>
+        <div class="oe-param"><p class="oe-param__label">Anno base</p><p class="oe-param__value">2026</p><p class="oe-param__text">Valori costanti.</p></div>
+        <div class="oe-param"><p class="oe-param__label">Fattore</p><p class="oe-param__value">0,9120</p><p class="oe-param__text">Parametro dichiarato in chiaro.</p></div>
+      </div>
+      <div>
+        <div class="oe-table-wrap">
+          <table class="oe-table">
+            <caption>Tabella 1 · Voci di esempio</caption>
+            <thead><tr><th scope="col">Voce</th><th scope="col" class="num">Valore (mln €)</th><th scope="col" class="num">Quota</th><th scope="col">Nota</th></tr></thead>
+            <tbody>
+              <tr><td>Lavori</td><td class="num">2.145,0</td><td class="num">60,0%</td><td>Numeri allineati a destra, cifre tabulari.</td></tr>
+              <tr><td>Servizi</td><td class="num">890,0</td><td class="num">24,9%</td><td>Righe alternate grigie.</td></tr>
+              <tr><td>Altro</td><td class="num">540,0</td><td class="num">15,1%</td><td>Residuo in fondo.</td></tr>
+            </tbody>
+            <tfoot><tr><td>Totale</td><td class="num">3.575,0</td><td class="num">100,0%</td><td></td></tr></tfoot>
+          </table>
+        </div>
+        <p class="oe-table-note">Fonte: dati di esempio. Le somme sono verificate: componenti = totale, quote = 100%.</p>
+      </div>
+      <div class="oe-verdict">
+        <span class="oe-verdict__flag">Esito positivo</span>
+        <p class="oe-verdict__text"><strong>Verdetto in una riga</strong>, con il numero che lo giustifica. Positivo in Bluette, negativo in grigio: mai verde e rosso.</p>
+      </div>
+      <div class="oe-hero__actions">
+        <a class="oe-btn" href="#top">Bottone primario</a>
+        <a class="oe-btn oe-btn--ghost" href="#top">Secondario <i data-lucide="external-link"></i></a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer__top">
+    <div class="footer__brand-block">
+      <a href="https://www.openeconomics.eu" class="footer__logo-link" aria-label="OpenEconomics">
+        <img src="../assets/logo/logo-white.svg" alt="OpenEconomics" class="footer__logo-img" width="442" height="56">
+      </a>
+      <p class="footer__tagline">Trasformiamo i dati in evidenza, per decisioni a maggiore impatto.</p>
+    </div>
+    <div class="footer__office-grid">
+      <div class="footer__office">
+        <span class="footer__office-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <address>Via J. F. Kennedy, 57/59<br>87036 Rende (CS)<br>+39 0984302539</address>
+      </div>
+      <div class="footer__office">
+        <span class="footer__office-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <address>Via Vitorchiano, 123<br>00189 Roma (RM)<br>+39 068414537</address>
+      </div>
+      <div class="footer__office">
+        <span class="footer__office-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <address>Via Nino Bixio, 7<br>20129 Milano (MI)</address>
+      </div>
+      <div class="footer__office">
+        <span class="footer__office-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <address>Sede t33<br>Via Calatafimi, 1<br>60121 Ancona (AN)<br>+39 0719715460</address>
+      </div>
+    </div>
+  </div>
+  <div class="footer__rule"></div>
+  <div class="footer__bottom">
+    <div class="footer__bottom-left">
+      <a class="footer__site-link" href="https://www.openeconomics.eu" target="_blank" rel="noopener">www.openeconomics.eu <span aria-hidden="true">&#8599;</span></a>
+      <span>&copy; 2026 OpenEconomics</span>
+    </div>
+    <p class="footer__disclaimer">Pagina di anteprima del kit: i dati sono fittizi e non costituiscono un'analisi.</p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  if (typeof OE === 'undefined' || typeof Chart === 'undefined') return;
+  OE.graduatoria('g-territori', ['Area di intervento', 'Resto della regione', 'Resto del Paese'], [2.60, 1.65, 0.75], { residuo: true, unita: 'mln €' });
+  OE.componenti('g-componenti', ['Valore aggiunto', 'Produzione', 'Redditi'],
+    [[2.10, 3.40, 1.20], [0.90, 2.30, 0.60], [1.80, 2.90, 1.10]], { unita: 'mln €' });
+  OE.doughnut('g-voci', ['Lavori', 'Servizi', 'Formazione', 'Altro'], [2145.0, 890.0, 360.0, 180.0], { residuo: true, unita: 'mila €', dec: 1 });
+});
+</script>
+</body>
+</html>

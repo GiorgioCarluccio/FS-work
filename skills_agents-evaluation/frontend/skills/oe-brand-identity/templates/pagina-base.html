@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITOLO_PAGINA}} | OpenEconomics</title>
+<meta name="description" content="{{DESCRIZIONE_BREVE}}">
+<link rel="icon" type="image/png" media="(prefers-color-scheme: light)" href="assets/icons/favicon-black.png">
+<link rel="icon" type="image/png" media="(prefers-color-scheme: dark)" href="assets/icons/favicon-white.png">
+<link rel="stylesheet" href="assets/oe-tokens.css">
+<link rel="stylesheet" href="assets/oe-base.css">
+<link rel="stylesheet" href="assets/nav.css">
+<link rel="stylesheet" href="assets/footer.css">
+<link rel="stylesheet" href="assets/oe-components.css">
+<!-- Solo se la pagina ha grafici. Offline: scaricare in assets/vendor/ e cambiare src. -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+<script src="assets/oe-charts.js" defer></script>
+<script src="assets/lucide-inline.js" defer></script>
+<script src="assets/oe-page.js" defer></script>
+</head>
+<body>
+<a class="oe-skip" href="#main">Vai al contenuto</a>
+
+<header>
+  <nav class="nav" aria-label="Principale">
+    <a href="#top" class="nav__logo-link" aria-label="OpenEconomics — inizio pagina">
+      <img src="assets/logo/logo-black.svg" alt="OpenEconomics" class="nav__logo-img" width="142" height="18">
+      <span class="nav__badge">{{BADGE, es. Studies}}</span>
+    </a>
+    <ul class="nav__links">
+      <li><a href="#sezione-1">{{Voce 1}}</a></li>
+      <li><a href="#sezione-2">{{Voce 2}}</a></li>
+      <li><a href="#sezione-3">{{Voce 3}}</a></li>
+    </ul>
+    <!-- Facoltativo: CTA principale (una sola) -->
+    <a class="nav__cta" href="{{URL_CTA}}"><span>{{Testo CTA}}</span></a>
+    <button class="nav__toggle" type="button" aria-expanded="false" aria-label="Apri il menu">
+      <svg class="nav__icon-open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      <svg class="nav__icon-close" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+    </button>
+  </nav>
+</header>
+
+<main id="main">
+  <!-- HERO: con immagine impostare style="--hero-img:url('media/hero.webp')" su .oe-hero__media;
+       senza immagine usare .oe-hero--text ed eliminare .oe-hero__media -->
+  <section class="oe-hero" id="top">
+    <div class="oe-hero__body">
+      <div class="oe-hero__top">
+        <span class="oe-chip oe-chip--sm">{{CATEGORIA}}</span>
+        <p class="oe-hero__kicker">{{Contesto · ente · anno}}</p>
+      </div>
+      <div>
+        <h1 class="oe-hero__title">{{Titolo su due righe}}<br><em>{{parte in evidenza}}</em></h1>
+        <p class="oe-hero__lead">{{Lead di 2-3 righe: cosa trova il lettore in questa pagina.}}</p>
+        <dl class="oe-hero__meta">
+          <div class="oe-hero__meta-item"><dt class="oe-hero__meta-label">{{Etichetta}}</dt><dd class="oe-hero__meta-value">{{Valore}}</dd></div>
+          <div class="oe-hero__meta-item"><dt class="oe-hero__meta-label">{{Etichetta}}</dt><dd class="oe-hero__meta-value">{{Valore}}</dd></div>
+        </dl>
+      </div>
+    </div>
+    <div class="oe-hero__media" role="img" aria-label="{{Descrizione dell'immagine}}">
+      <p class="oe-hero__caption"><span>{{Didascalia}}</span><strong>{{Crediti}}</strong></p>
+    </div>
+  </section>
+
+  <!-- SEZIONI: alternare fondi chiari (--grey, default bianco) e al massimo
+       una sezione scura; l'ultima prima del footer deve essere chiara. -->
+  <section class="oe-section oe-section--grey" id="sezione-1" aria-labelledby="t-sezione-1">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">{{Chip: categoria o "Sezione 0N"}}</span>
+        <h2 class="oe-section-head__title" id="t-sezione-1">{{Titolo di sezione}}</h2>
+        <p class="oe-section-head__lead">{{Sottotitolo in una frase.}}</p>
+      </header>
+      <div class="oe-tiles oe-tiles--3">
+        <article class="oe-card">
+          <span class="oe-card__icon"><i data-lucide="trending-up"></i></span>
+          <p class="oe-card__label">{{Etichetta}}</p>
+          <p class="oe-card__value">{{Valore}}</p>
+          <h3 class="oe-card__title">{{Titolo card}}</h3>
+          <p class="oe-card__text">{{Una frase.}}</p>
+        </article>
+        <!-- … altre card: vedi references/componenti.md -->
+      </div>
+    </div>
+  </section>
+
+  <section class="oe-section" id="sezione-2" aria-labelledby="t-sezione-2">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">{{Chip: categoria o "Sezione 0N"}}</span>
+        <h2 class="oe-section-head__title" id="t-sezione-2">{{Titolo di sezione}}</h2>
+      </header>
+      <figure class="oe-figure">
+        <figcaption>
+          <p class="oe-figure__label">Grafico 1</p>
+          <h3 class="oe-figure__title">{{Titolo del grafico}}</h3>
+          <p class="oe-figure__text">{{Cosa mostra, in una frase.}}</p>
+        </figcaption>
+        <div class="oe-figure__chart" style="--h:320px"><canvas id="grafico-1"></canvas></div>
+        <p class="oe-figure__source">Fonte: {{fonte}}.</p>
+      </figure>
+    </div>
+  </section>
+
+  <section class="oe-section oe-section--grey oe-section--rule" id="sezione-3" aria-labelledby="t-sezione-3">
+    <div class="oe-section__inner">
+      <header class="oe-section-head">
+        <span class="oe-chip">{{Chip: categoria o "Sezione 0N"}}</span>
+        <h2 class="oe-section-head__title" id="t-sezione-3">{{Titolo di sezione}}</h2>
+      </header>
+      <div class="oe-prose">
+        <p>{{Testo corrente.}}</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer__top">
+    <div class="footer__brand-block">
+      <a href="https://www.openeconomics.eu" class="footer__logo-link" aria-label="OpenEconomics">
+        <img src="assets/logo/logo-white.svg" alt="OpenEconomics" class="footer__logo-img" width="442" height="56">
+      </a>
+      <p class="footer__tagline">Trasformiamo i dati in evidenza, per decisioni a maggiore impatto.</p>
+    </div>
+    <!-- Sedi: vedi references/brand.md § Footer per l'elenco aggiornato -->
+    <div class="footer__office-grid">
+      <div class="footer__office">
+        <span class="footer__office-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <address>{{Indirizzo sede}}</address>
+      </div>
+    </div>
+  </div>
+  <div class="footer__rule"></div>
+  <div class="footer__bottom">
+    <div class="footer__bottom-left">
+      <a class="footer__site-link" href="https://www.openeconomics.eu" target="_blank" rel="noopener">www.openeconomics.eu <span aria-hidden="true">&#8599;</span></a>
+      <span>&copy; {{ANNO}} OpenEconomics</span>
+    </div>
+    <p class="footer__disclaimer">{{Disclaimer, es.: Il presente documento e tutte le informazioni in esso contenute possono essere divulgati citando OpenEconomics come fonte.}}</p>
+  </div>
+</footer>
+
+<script>
+  // Grafici: sempre tramite OE.* (colori e numeri del brand). Eliminare se non servono.
+  document.addEventListener('DOMContentLoaded', function () {
+    if (typeof OE === 'undefined' || typeof Chart === 'undefined') return;
+    OE.graduatoria('grafico-1', ['{{Voce A}}', '{{Voce B}}', 'Altro'], [3.2, 1.8, 0.6], { residuo: true, unita: 'mln €' });
+  });
+</script>
+</body>
+</html>

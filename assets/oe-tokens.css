@@ -1,0 +1,319 @@
+/* =========================================================================
+   OpenEconomics — Design Tokens (DS v4, 2026)
+   -------------------------------------------------------------------------
+   Contiene solo @font-face, variabili :root e classi OPT-IN (.oe-container,
+   .oe-grid, .oe-eyebrow, …): importarlo NON cambia l'aspetto di una pagina
+   esistente. Gli stili sui tag nudi (body 18px/300, h1–h4, link, focus)
+   stanno in oe-base.css, da caricare solo sulle pagine nuove.
+   Ordine: oe-tokens.css → oe-base.css → nav.css → footer.css → oe-components.css
+   ========================================================================= */
+
+/* -----------------------------------------------------------------------
+   Fonts (self-hosted)
+   ----------------------------------------------------------------------- */
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  src: url("./fonts/AtkinsonHyperlegibleNext-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 200 800; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  src: url("./fonts/AtkinsonHyperlegibleNext-Italic-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 200 800; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  src: url("./fonts/AtkinsonHyperlegibleMono-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 200 800; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  src: url("./fonts/AtkinsonHyperlegibleMono-Italic-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 200 800; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Hedvig Letters Serif";
+  src: url("./fonts/HedvigLettersSerif-18pt-Regular.ttf") format("truetype");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+
+/* -----------------------------------------------------------------------
+   Color tokens — straight from the Brand Manual
+   ----------------------------------------------------------------------- */
+:root {
+  /* === Primary neutrals === */
+  --oe-white: #FFFFFF;
+  --oe-black: #000000;
+
+  /* === Bluette — the brand's core identity color === */
+  --oe-bluette-050: #EFE5FF;
+  --oe-bluette-100: #D9C1FF;
+  --oe-bluette-200: #B991FF;
+  --oe-bluette-300: #A16AFF;
+  --oe-bluette-400: #8742FF;
+  --oe-bluette-500: #6E1AFF;
+  --oe-bluette-600: #5902EE;
+  --oe-bluette-700: #4400B3;   /* primary brand */
+  --oe-bluette-800: #340088;
+  --oe-bluette-900: #270065;   /* deep purple — footer & dark sections */
+  --oe-bluette: var(--oe-bluette-700);
+
+  /* === Lime — the accent === */
+  --oe-lime-050: #EFFFDC;
+  --oe-lime-100: #DFFFBB;
+  --oe-lime-200: #D5FFA4;
+  --oe-lime-300: #C9FF8C;
+  --oe-lime-400: #B9FF69;       /* signature lime */
+  --oe-lime-500: #91FF15;
+  --oe-lime-600: #7FF100;
+  --oe-lime-700: #67C300;
+  --oe-lime-800: #458300;
+  --oe-lime-900: #315C01;
+  --oe-lime: var(--oe-lime-400);
+
+  /* === Gray scale === */
+  --oe-gray-000: #FFFFFF;
+  --oe-gray-100: #F1F1F1;
+  --oe-gray-200: #E7E7E7;
+  --oe-gray-300: #D2D2D2;
+  --oe-gray-400: #AFAFAF;
+  --oe-gray-500: #999999;
+  --oe-gray-600: #6E6E6E;
+  --oe-gray-700: #545454;
+  --oe-gray-800: #2C2C2C;
+  --oe-gray-900: #000000;
+
+  /* === Secondary palettes (use sparingly — for data viz, illustrations) === */
+  --oe-magenta-400: #FF8DFF;  --oe-magenta-500: #FF4EFF;  --oe-magenta-600: #FF00FF;
+  --oe-magenta-700: #C300C3;  --oe-magenta-800: #920092;  --oe-magenta-900: #600060;
+  --oe-blu-400: #6161FF;      --oe-blu-500: #3A3AFF;      --oe-blu-600: #0000FF;
+  --oe-blu-700: #0000A1;      --oe-blu-800: #000068;      --oe-blu-900: #000035;
+  --oe-yellow-400: #FFF751;   --oe-yellow-500: #FFF300;   --oe-yellow-600: #F4E900;
+  --oe-yellow-700: #595700;   --oe-yellow-800: #403E00;   --oe-yellow-900: #262500;
+  --oe-green-400: #3FFFA5;    --oe-green-500: #00FF88;    --oe-green-600: #00E279;
+  --oe-green-700: #00542D;    --oe-green-800: #003F22;    --oe-green-900: #002D18;
+  --oe-cyan-400: #83FFFF;     --oe-cyan-500: #61FFFF;     --oe-cyan-600: #00FFFF;
+  --oe-cyan-700: #005B5B;     --oe-cyan-800: #004646;     --oe-cyan-900: #003535;
+
+  /* === Semantic tokens === */
+  --oe-bg:          var(--oe-white);
+  --oe-bg-elev:     var(--oe-gray-100);
+  --oe-bg-tint:     var(--oe-bluette-050);     /* soft purple panels */
+  --oe-bg-dark:     var(--oe-bluette-900);     /* footer + dark sections */
+  --oe-bg-accent:   var(--oe-bluette-700);     /* full-bleed CTA blocks */
+  --oe-bg-mid:      #4711BB;                   /* mid purple (homepage) */
+
+  --oe-fg:          var(--oe-black);
+  --oe-fg-soft:     var(--oe-gray-700);        /* body on white */
+  --oe-fg-muted:    var(--oe-gray-500);
+  --oe-fg-inverse:  var(--oe-white);
+
+  --oe-accent:        var(--oe-bluette-700);   /* primary brand accent */
+  --oe-accent-strong: var(--oe-bluette-900);
+  --oe-accent-soft:   var(--oe-bluette-050);
+  --oe-accent-on:     var(--oe-white);         /* testo su accento */
+  --oe-pop:           var(--oe-lime-400);      /* electric lime */
+  --oe-pop-on:        var(--oe-black);         /* testo su pop/lime */
+  --oe-on-dark-accent: var(--oe-lime-400);     /* accento come TESTO su fondo scuro */
+
+  --oe-stroke:        var(--oe-black);
+  --oe-stroke-soft:   var(--oe-gray-300);
+  --oe-stroke-on-dark:var(--oe-white);
+
+  --oe-link:        var(--oe-bluette-700);
+  --oe-link-hover:  var(--oe-bluette-900);
+
+  /* === Typography === */
+  --oe-font-sans:    "Atkinson Hyperlegible Next", "Atkinson Hyperlegible",
+                     -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --oe-font-mono:    "Atkinson Hyperlegible Mono", ui-monospace,
+                     "SF Mono", Menlo, Consolas, monospace;
+  --oe-font-serif:   "Hedvig Letters Serif", "Source Serif Pro", Georgia, serif;
+
+  /* === Spacing scale (from Figma) === */
+  --oe-space-xxs:  4px;   /* spacing.xxs */
+  --oe-space-xs:   8px;   /* spacing.xs  */
+  --oe-space-s:   16px;   /* spacing.s   */
+  --oe-space-m:   24px;   /* spacing.m   */
+  --oe-space-l:   32px;   /* spacing.l   */
+  --oe-space-xl:  40px;   /* spacing.xl  */
+  --oe-space-2xl: 48px;   /* spacing.2xl */
+  --oe-space-3xl: 64px;   /* spacing.3xl */
+  /* legacy numeric aliases (4-pt grid, with 20/40/80 anchors) */
+  --oe-space-1:  4px;
+  --oe-space-2:  8px;
+  --oe-space-3:  12px;
+  --oe-space-4:  16px;
+  --oe-space-5:  20px;
+  --oe-space-6:  24px;
+  --oe-space-7:  32px;
+  --oe-space-8:  40px;
+  --oe-space-9:  52px;
+  --oe-space-10: 64px;
+  --oe-space-11: 80px;
+  --oe-space-12: 120px;
+
+  /* === Grid system (from Figma) === */
+  --oe-grid-max:     1440px;  /* max container width */
+  --oe-grid-gutter:   24px;   /* fixed column gap    */
+  --oe-grid-margin:   12px;   /* outer margin each side */
+  /* breakpoints */
+  --oe-bp-xxl: 1440px;
+  --oe-bp-xl:  1200px;
+  --oe-bp-l:    992px;
+  --oe-bp-m:    768px;
+
+  /* === Layout === */
+  --oe-max-width:     1760px;     /* canvas inner width (1920 - 80 ×2) */
+  --oe-page-pad:      80px;
+  --oe-page-pad-mob:  24px;
+  --oe-col-gap:       40px;
+
+  /* === Radii === sharp-corner system, all 0 */
+  --oe-radius-xs: 0px;
+  --oe-radius-sm: 0px;
+  --oe-radius-md: 0px;
+  --oe-radius-lg: 0px;
+  --oe-radius-pill: 0px;
+  /* uniche eccezioni ammesse */
+  --oe-radius-chip:  2px;   /* chip / tag */
+  --oe-radius-media: 4px;   /* card con fotografia */
+
+  /* === Focus (sempre visibile da tastiera) === */
+  --oe-focus-ring:         2px solid var(--oe-bluette-500);
+  --oe-focus-ring-on-dark: 2px solid var(--oe-lime-400);
+  --oe-focus-offset:       3px;
+
+  /* === Header === */
+  --oe-nav-h: 62px;
+
+  /* === Borders === */
+  --oe-border:        1px solid var(--oe-gray-200);  /* was black — removed per brand rule */
+  --oe-border-soft:   1px solid var(--oe-gray-200);
+  --oe-border-on-dark:1px solid rgba(255,255,255,0.18);
+
+  /* === Shadows (used sparingly — brand is mostly flat) === */
+  --oe-shadow-1: 0 1px 0 rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.06);
+  --oe-shadow-2: 0 4px 12px rgba(39,0,101,0.08);
+  --oe-shadow-3: 0 16px 40px rgba(39,0,101,0.18);
+
+  /* === Motion === */
+  --oe-ease:        cubic-bezier(0.2, 0.7, 0.2, 1);
+  --oe-ease-out:    cubic-bezier(0, 0, 0.2, 1);
+  --oe-dur-fast:    140ms;
+  --oe-dur-base:    220ms;
+  --oe-dur-slow:    420ms;
+}
+
+/* -----------------------------------------------------------------------
+   Layout utilities (opt-in: si attivano solo usando le classi)
+   ----------------------------------------------------------------------- */
+
+/* .oe-container — boxed 1760px centred content wrapper. */
+.oe-container {
+  max-width: var(--oe-max-width);   /* 1760px */
+  margin-inline: auto;
+  padding-inline: var(--oe-page-pad); /* 80px each side */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Narrower reading column (long-form text, articles) */
+.oe-container--text {
+  max-width: 900px;
+  margin-inline: auto;
+  padding-inline: var(--oe-page-pad);
+  width: 100%;
+  box-sizing: border-box;
+}
+@media (max-width: 767.98px) {
+  .oe-container, .oe-container--text { padding-inline: var(--oe-page-pad-mob); }
+}
+
+/* -----------------------------------------------------------------------
+   Grid system — 12 colonne ≥1200px · 8 colonne 768–1199px · 4 col <768px.
+   ----------------------------------------------------------------------- */
+.oe-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: var(--oe-grid-gutter);
+  max-width: var(--oe-grid-max);
+  margin-inline: auto;
+  padding-inline: var(--oe-grid-margin);
+  width: 100%;
+  box-sizing: border-box;
+}
+.oe-col-1  { grid-column: span 1; }
+.oe-col-2  { grid-column: span 2; }
+.oe-col-3  { grid-column: span 3; }
+.oe-col-4  { grid-column: span 4; }
+.oe-col-5  { grid-column: span 5; }
+.oe-col-6  { grid-column: span 6; }
+.oe-col-7  { grid-column: span 7; }
+.oe-col-8  { grid-column: span 8; }
+.oe-col-9  { grid-column: span 9; }
+.oe-col-10 { grid-column: span 10; }
+.oe-col-11 { grid-column: span 11; }
+.oe-col-12 { grid-column: span 12; }
+@media (max-width: 1199.98px) {
+  .oe-grid { grid-template-columns: repeat(8, minmax(0, 1fr)); }
+  .oe-col-9, .oe-col-10, .oe-col-11, .oe-col-12 { grid-column: span 8; }
+  .oe-col-m-1 { grid-column: span 1; } .oe-col-m-2 { grid-column: span 2; }
+  .oe-col-m-3 { grid-column: span 3; } .oe-col-m-4 { grid-column: span 4; }
+  .oe-col-m-5 { grid-column: span 5; } .oe-col-m-6 { grid-column: span 6; }
+  .oe-col-m-7 { grid-column: span 7; } .oe-col-m-8 { grid-column: span 8; }
+}
+@media (max-width: 767.98px) {
+  .oe-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .oe-grid [class*="oe-col-"] { grid-column: span 4; }
+  .oe-col-s-1 { grid-column: span 1; } .oe-col-s-2 { grid-column: span 2; }
+  .oe-col-s-3 { grid-column: span 3; } .oe-col-s-4 { grid-column: span 4; }
+}
+
+/* -----------------------------------------------------------------------
+   Ruoli tipografici a CLASSE (opt-in; i tag nudi restano alle pagine).
+   RULE: font minimo 12px in tutto il sistema (≥16px fuori dashboard).
+   ----------------------------------------------------------------------- */
+
+/* Eyebrow / pretitolo generico — SANS all-caps, medium 500.
+   (Il Mono è riservato SOLO a chip e figure-label.) */
+.oe-eyebrow {
+  font-family: var(--oe-font-sans);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--oe-accent);
+}
+
+/* Chip / category tag — Mono */
+.oe-tag, .oe-chip {
+  font-family: var(--oe-font-mono);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: var(--oe-accent);
+}
+
+/* Figure label — GRAFICO 1 · TABELLA 1 · MAPPA 1 (mono 500, 12px, uppercase) */
+.oe-figure-label {
+  font-family: var(--oe-font-mono);
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.2;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--oe-black);
+}
+
+/* Numeri — sempre Atkinson sans, cifre tabulari; il colore segue lo sfondo */
+.oe-num {
+  font-family: var(--oe-font-sans);
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+.oe-num.on-light, .oe-num.on-lime { color: var(--oe-black); }
+.oe-num.on-dark { color: var(--oe-white); }

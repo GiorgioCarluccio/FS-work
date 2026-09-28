@@ -1,0 +1,17 @@
+/* Project-specific presentation built from the OpenEconomics design tokens. */
+.report-grid { align-items: stretch; }
+.report-card { display: flex; min-height: 290px; flex-direction: column; align-items: flex-start; text-decoration: none; }
+.report-card .oe-card__text { margin-bottom: 24px; }
+.report-link, .macro-card__action { display: inline-flex; align-items: center; gap: 10px; color: var(--oe-accent); font-weight: 700; }
+.report-link { margin-top: auto; }
+.report-link svg, .macro-card__action svg { width: 18px; height: 18px; }
+.macro-card { display: grid; grid-template-columns: 56px 1fr auto; align-items: center; gap: 24px; margin-top: 48px; padding: 28px; border: 1px solid var(--oe-gray-200); background: var(--oe-white); color: var(--oe-fg); text-decoration: none; transition: background var(--oe-dur-base) var(--oe-ease); }
+.macro-card:hover { background: var(--oe-bg-tint); }
+.macro-card:focus-visible { outline: 3px solid var(--oe-focus-ring); outline-offset: 3px; }
+.macro-card__icon { display: grid; width: 56px; height: 56px; place-items: center; background: var(--oe-bg-dark); color: var(--oe-pop); }
+.macro-card__icon svg { width: 26px; height: 26px; }
+.macro-card__body { display: grid; gap: 8px; }
+.macro-card__body strong { font-family: var(--oe-font-serif); font-size: clamp(21px, 2.4vw, 30px); font-weight: 400; }
+.macro-card__body > span:last-child { color: var(--oe-fg-soft); }
+.closing-note { max-width: 68ch; margin: 0; font-size: 18px; line-height: 1.7; }
+@media (max-width: 700px) { .macro-card { grid-template-columns: 48px 1fr; gap: 16px; padding: 20px; } .macro-card__icon { width: 48px; height: 48px; } .macro-card__action { grid-column: 2; } .report-card { min-height: auto; } }
