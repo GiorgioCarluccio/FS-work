@@ -1,0 +1,1069 @@
+
+
+
+
+   
+
+
+
+
+
+
+
+Subentro RFI Linea Udine – Cividale
+Valorizzazione benefici ed opzioni reali - subentro di Rete Ferroviaria Italiana nella gestione della linea ferroviaria regionale Udine – Cividale giugno 2025
+
+
+
+
+
+
+
+
+
+
+
+
+DIREZIONE STRATEGIE, SOSTENIBILITÀ E PIANIFICAZIONE SVILUPPO INFRASTRUTTURE DI POLO
+Business Strategy
+Il Responsabile
+Business Strategy
+Il Responsabile
+Strategie di Polo
+
+
+
+
+
+Sommario
+
+1.Sintesi esecutiva2
+2.Inquadramento3
+3.La valorizzazione dei benefici4
+3.1.Bibliografia di riferimento e breve descrizione del metodo4
+3.2.Breve descrizione della situazione attuale e dell’intervento oggetto di valutazione4
+4.Benefici6
+4.1.Benefici complessivi6
+4.2.Metodologia di calcolo e quantificazione dei benefici6
+4.2.1.Risparmio di tempo6
+4.2.2.Riduzione della congestione9
+4.2.3.Riduzione dell’incidentalità10
+4.2.4.Riduzione inquinamento acustico11
+4.2.5.Benefici ambientali12
+4.2.5.1.Emissioni di CO215
+4.2.5.2.Fattori inquinanti16
+5.Analisi Opzioni Reali27
+6.Risultati34
+
+
+
+Sintesi esecutiva
+Il presente documento riporta la valorizzazione dei benefici e delle opzioni reali del progetto di esercizio e valorizzazione della linea ferroviaria Udine-Cividale, nel contesto del subentro di Rete Ferroviaria Italiana (RFI) nella gestione della tratta.
+L'obiettivo primario dell'analisi è valutare la sostenibilità economica, ambientale e sociale del nuovo assetto gestionale e delle evoluzioni infrastrutturali previste, fornendo un supporto oggettivo alle decisioni pubbliche di programmazione dei servizi.
+La linea Udine-Cividale rappresenta un'infrastruttura strategica per il Friuli-Venezia Giulia, garantendo non solo la mobilità locale ma anche l'accesso turistico e il rafforzamento della coesione territoriale. Allo stato attuale la linea è chiusa all’esercizio ferroviario da maggio 2024 ed il trasporto pubblico sulla relazione è garantito da autobus sostitutivi.
+Il progetto analizzato si inserisce nell'ambito dell'integrazione della linea nella rete ferroviaria nazionale, uniformandone standard di sicurezza, accessibilità e qualità del servizio.
+L'intervento si articola in due fasi principali:
+2026-2028: esercizio con treni diesel di nuova generazione, ottimizzati in termini di emissioni e consumo energetico, con un sensibile miglioramento dei tempi di percorrenza per l’upgrade dell’infrastruttura ed un leggero incremento del numero dei servizi, secondo le previsioni della Regione;
+Dal 2028: completa elettrificazione della tratta Udine-Cividale, con conseguente passaggio a un esercizio interamente elettrico.
+Quest’ultima transizione consentirà di ottenere significativi benefici ambientali, riducendo drasticamente le emissioni climalteranti e migliorando la sostenibilità operativa.
+L'analisi, effettuata su un orizzonte temporale di 30 anni, evidenzia che:
+Il valore complessivo dei benefici è pari a 61,36 milioni di euro;
+Il valore complessivo dei benefici scontati con un tasso del 3% annuo è pari a 37,58 milioni di euro;
+Il valore economico delle opzioni reali complessivo è pari a 6,09 milioni di euro.
+confermando così il valore economico e sociale del ripristino dell’esercizio ferroviario. In assenza di scenari alternativi praticabili nel breve termine, il confronto viene effettuato rispetto a uno scenario "do-nothing" realistico che vede l’assenza del servizio ferroviario.
+
+
+
+
+
+Inquadramento
+L'infrastruttura della rete in concessione alla Regione Autonoma Friuli-Venezia Giulia è composta da una linea a semplice binario di 15 km, non elettrificata, in cui sono presenti 22 Passaggi a Livello ed esercita in regime di Dirigente Unico con sede a Cividale del Friuli. 
+Figura 1 – Inquadramento nella rete ferroviaria nazionale
+
+La linea è di proprietà della Regione autonoma Friuli-Venezia Giulia ed è affidata in gestione alla società Ferrovie Udine Cividale S.r.l. (FUC), interamente controllata dalla medesima Regione. Attualmente la linea è chiusa all’esercizio ferroviario.
+Nel periodo antecedente la chiusura la linea era mediamente impegnata da 32 treni/giorno feriale. La velocità massima sulla linea era di 50 km/h con possibilità di far circolare un unico treno tra Udine - Cividale in seguito alla prescrizione ANSFISA dovuta all'assenza Sistema Controllo Marcia Treno (SCMT) e del sistema di distanziamento automatizzato.
+La risoluzione di tale limitazione è prevista con la messa in servizio a cura RFI dell'upgrade dell'Apparato Centrale Computerizzato - Multistazione (ACC-M) della linea Udine - Cividale comprensivo di SCMT, blocco conta assi realizzato da FUC e trasformazione dei Passaggi a Livello a semi barriere con barriere complete.
+Inoltre, tra gli interventi post subentro che saranno eseguiti a cura di RFI è prevista l'elettrificazione della linea Udine - Cividale con adeguamento della relativa Sotto Stazione Elettrica di Udine.
+
+
+
+La valorizzazione dei benefici
+Bibliografia di riferimento e breve descrizione del metodo
+La presente analisi utilizza la metodologia della analisi Costi-Benefici (ACB) ed è stata sviluppata avendo come principale, ma non unico, riferimento le seguenti fonti bibliografiche e metodologiche:
+European Commission (2014), Guide to Cost-Benefit Analysis of Investment Projects, EUEuropean Commission (2021), Economic Appraisal Vademecum 2021-2027 - General Principles and Sector Applications, EUHandbook on the External Costs of Transport (2019).Ministero delle Infrastrutture e dei Trasporti (2021), Linee guida per la valutazione degli investimenti in opere pubbliche – settore ferroviarioMinistero delle Infrastrutture e dei Trasporti (2022), Linee guida operative per la valutazione delle opere pubbliche – settore stradaleEuropean Commission (2014), Guide to Cost-Benefit Analysis of Investment Projects, EUEuropean Commission (2021), Economic Appraisal Vademecum 2021-2027 - General Principles and Sector Applications, EUHandbook on the External Costs of Transport (2019).Ministero delle Infrastrutture e dei Trasporti (2021), Linee guida per la valutazione degli investimenti in opere pubbliche – settore ferroviarioMinistero delle Infrastrutture e dei Trasporti (2022), Linee guida operative per la valutazione delle opere pubbliche – settore stradale
+European Commission (2014), Guide to Cost-Benefit Analysis of Investment Projects, EU
+European Commission (2021), Economic Appraisal Vademecum 2021-2027 - General Principles and Sector Applications, EU
+Handbook on the External Costs of Transport (2019).
+Ministero delle Infrastrutture e dei Trasporti (2021), Linee guida per la valutazione degli investimenti in opere pubbliche – settore ferroviario
+Ministero delle Infrastrutture e dei Trasporti (2022), Linee guida operative per la valutazione delle opere pubbliche – settore stradale
+European Commission (2014), Guide to Cost-Benefit Analysis of Investment Projects, EU
+European Commission (2021), Economic Appraisal Vademecum 2021-2027 - General Principles and Sector Applications, EU
+Handbook on the External Costs of Transport (2019).
+Ministero delle Infrastrutture e dei Trasporti (2021), Linee guida per la valutazione degli investimenti in opere pubbliche – settore ferroviario
+Ministero delle Infrastrutture e dei Trasporti (2022), Linee guida operative per la valutazione delle opere pubbliche – settore stradale
+In linea generale, l’analisi ha l’obiettivo di valutare il rendimento di un investimento pubblico consentendo così il confronto con altri possibili investimenti, per fare ciò deve valutare l’insieme dei costi e dei benefici sulla collettività.
+Il metodo su cui si basa l'analisi economica di un investimento, dal punto di vista dei costi e dei benefici, è rappresentato dal prezzo ombra, ovvero il prezzo che riflette il costo opportunità delle merci e dei servizi. A causa di distorsioni o di mercati incompleti, i prezzi osservati sul mercato, se esistenti, non sempre coincidono con il costo opportunità espresso dal prezzo ombra.
+Nel caso specifico, considerato che la scelta di investimento per il ripristino della linea è già stata assunta dalla Regione FVG, la metodologia dell’Analisi Costi Benefici è stata applicata per la valorizzazione in termini monetari degli effetti economici, ambientali e sociali connessi alla riapertura dell’esercizio ferroviario ed alle nuove caratteristiche dell’infrastruttura (performance di trasporto ed elettrificazione).
+Breve descrizione della situazione attuale e dell’intervento oggetto di valutazione
+La linea ferroviaria Udine-Cividale, lunga circa 15 km, è attualmente dismessa a seguito della sospensione del servizio ferroviario avvenuta nel 2024. Questa sospensione è stata necessaria per consentire interventi straordinari di manutenzione e adeguamento infrastrutturale, fondamentali per il rilancio della linea e la sua successiva integrazione nella rete ferroviaria nazionale.
+Attualmente, il collegamento tra Udine e Cividale è assicurato tramite servizi sostitutivi su gomma. Il ripristino della linea ferroviaria è previsto nel corso del 2026, in concomitanza con il completamento degli interventi e con il subentro ufficiale nella gestione da parte di Rete Ferroviaria Italiana (RFI).
+
+Il progetto di riqualificazione prevede:
+Riattivazione della linea secondo standard di sicurezza che consentono il superamento dei vincoli alla circolazione imposti dall’ANSFISA (es. velocità massima 50 km/h, divieto di incroci)
+Una fase iniziale di esercizio con trazione diesel ottimizzata nel periodo 2026-2028, utilizzando materiale rotabile moderno ma con treni a diesel;
+Elettrificazione completa della tratta entro il 2028, finalizzata a garantire un esercizio più efficiente, sostenibile e integrato con il sistema ferroviario nazionale;
+Ammodernamento delle stazioni e dei sistemi informativi, per migliorare l'accessibilità, la sicurezza e il comfort dei viaggiatori;
+Rinnovo del materiale rotabile, in linea con gli standard di sostenibilità ambientale e di efficienza energetica richiesti.
+Queste azioni mirano non solo a ripristinare un servizio ferroviario sicuro ed efficiente, ma anche a rilanciare la linea come asse strategico di mobilità sostenibile a beneficio del territorio.
+Figura 2 – Popolazione nei comuni interessati
+
+
+
+
+
+
+
+
+Benefici
+Benefici complessivi
+L'analisi dei benefici si è basata sui criteri stabiliti dalle Linee Guida del Ministero delle Infrastrutture e dei Trasporti (MIT) del 2021, della Commissione Europea del 2019 dall’ISPRA e dell’Agenzia Europea per l’Ambiente, considerando le principali esternalità positive associate all'intervento.
+I benefici principali inclusi nell'analisi sono:
+Risparmio di tempo di viaggio: grazie alla maggiore velocità e regolarità del servizio ferroviario rispetto alle modalità alternative su gomma.
+Riduzione della congestione stradale: in conseguenza dello shift modale dall'auto privata e dal bus al trasporto ferroviario.
+Riduzione delle emissioni inquinanti: in termini di CO₂, NOₓ, SO2, NMVOC e particolato, dovuta sia alla maggiore efficienza energetica dei treni, sia all'elettrificazione della linea dal 2028.
+Riduzione dell'inquinamento acustico: grazie al minor numero di veicoli circolanti su strada e alla minore rumorosità del trasporto ferroviario rispetto a quello automobilistico.
+Minore incidentalità: a seguito della diminuzione dei volumi di traffico veicolare su gomma, con conseguente riduzione del numero e della gravità degli incidenti stradali.
+Tutti i benefici sono stati quantificati utilizzando parametri unitari standardizzati indicati dalle fonti sopra menzionate e sono stati attualizzati a valori costanti secondo il tasso sociale di sconto del 3%.
+Il loro valore aggregato contribuisce a determinare la sostenibilità economica e sociale complessiva del progetto, consolidando il risultato positivo dell'analisi.
+Metodologia di calcolo e quantificazione dei benefici
+Risparmio di tempo
+Per la valutazione di questa tipologia di beneficio si sono confrontate la situazione attuale, che vede tutto il traffico svolgersi sulla strada, e la situazione di progetto che prevede la riapertura della linea ferroviaria.
+Gli interventi per il ripristino dell’esercizio commerciale della linea Udine–Cividale determinano un miglioramento delle prestazioni di esercizio rispetto all’esercizio ferroviario immediatamente precedente la chiusura in termini di regolarità e velocità del servizio, con conseguente riduzione dei tempi di viaggio per gli utenti. Si ricorda infatti che, per effetto delle prescrizioni dell’ANSFISA l’Orario di Servizio della linea dell’anno 2024 prevedeva velocità massima di 50 km/h e tempi di percorrenza di 24 min.
+
+Figura 3 – Orario di Servizio 2024 – Velocità massima
+
+
+
+Figura 4 – Orario di Servizio 2024 – Orari
+
+
+Ne consegue che per la stima dei benefici dovuti alla riduzione dei tempi di percorrenza per gli attuali utenti della strada occorre considerare un duplice effetto:
+il ripristino dell’esercizio ferroviario ed il conseguente trasferimento degli utenti dalla strada (bus e auto) alla ferrovia
+il miglioramento delle performance della modalità ferroviaria per effetto degli interventi infrastrutturali e tecnologici in corso e programmati.
+Sulla base delle stime elaborate da OpenEconomics e delle previsioni di RFI, l’upgrade della linea ferroviaria consente un risparmio medio di tempo per passeggero pari a 0,25 ore per tratta (circa 15 minuti) rispetto al servizio di bus sostitutivo, considerando che il tempo di percorrenza ferroviaria precedente la chiusura era di 24 minuti e si prevede una riduzione di circa 4 minuti grazie agli interventi programmati, mentre il tempo di percorrenza medio in bus è di 35 minuti. Per i passeggeri che si sarebbero spostati in auto, il risparmio medio stimato è invece pari a 0,15 ore per tratta (circa 9 minuti) considerando un tempo medio su strada di 29 minuti, coerentemente con le caratteristiche attese dell’infrastruttura post-intervento.
+Il beneficio è stato quantificato monetizzando il risparmio di tempo annuo per i passeggeri, applicando i valori di riferimento riportati nelle linee guida.
+In particolare, per i passeggeri che altrimenti avrebbero utilizzato l’automobile è stato adottato un valore del tempo, rivalutato al 2025, pari a 18,91 euro per passeggero-ora, mentre per quelli che avrebbero viaggiato in autobus sostitutivo il valore considerato è di 10,41 euro per passeggero-ora.
+Sulla base dei dati di traffico dichiarati da Ferrovie Udine Cividale sulla Carta dei Servizi del 2024, si quantificano in 315.290 passeggeri annui serviti dal treno, 22.877 passeggeri annui dal bus sostitutivo sulla relazione Udine-Cividale e 292.413 passeggeri annui che attualmente non utilizzano né il treno né il bus. Il beneficio complessivo è stato calcolato confrontando la situazione attuale, in cui tutti i passeggeri utilizzano la strada, con lo scenario ottimizzato, moltiplicando il valore del tempo unitario per il numero annuo di ore passeggero incrementali, quest’ultimo ottenuto ponderando il numero di passeggeri annui in bus e auto per il corrispondente tempo medio risparmiato. Pertanto, il risultato dell’analisi indica un beneficio annuo pari a:
+829.559 euro per i passeggeri del veicolo,
+59.520 euro per i passeggeri del bus,
+
+per un totale di 889.079 euro all’anno, valore assunto costante durante tutto l’orizzonte
+temporale di analisi.
+Tale beneficio rappresenta una componente rilevante dell’analisi economica, in quanto riflette un miglioramento diretto della qualità del servizio per l’utenza e contribuisce positivamente alla valorizzazione dei benefici per la collettività.
+Riduzione della congestione
+L’intervento contribuisce indirettamente alla riduzione della congestione stradale, grazie allo spostamento di una parte significativa della domanda di mobilità dal trasporto privato su gomma verso il treno. Questo effetto si traduce in un minor numero di veicoli in circolazione sulle strade della zona interessata, con conseguente decongestionamento del traffico veicolare e riduzione dei costi sociali associati.
+Nella valorizzazione di questo beneficio si ipotizza il recupero da parte della modalità ferroviaria dei volumi di traffico viaggiatori antecedenti la chiusura della linea e un incremento connesso alla riduzione dei tempi di percorrenza citati in precedenza. 
+Secondo le previsioni fornite da RFI, la riduzione complessiva dei chilometri percorsi da veicoli privati è stimata in circa 3,38 milioni di veicoli·km annui, mentre quella riferita ai bus sostitutivi ammonta a circa 198 mila bus·km annui. I costi medi di congestione sono stati valutati partendo dalle indicazioni della Commissione Europea ed aggiornati al 2025 applicando un coefficiente di rivalutazione monetaria pari a 1,188 (calcolato sulla base dell’indice ISTAT da gennaio 2019 a marzo 2023. I costi medi di congestione aggiornati sono, quindi, pari a 0,064 €/veicolo·km per le autovetture e 0,019 €/bus·km per i bus.
+Applicando tali valori all’utenza stimata, si ottiene una riduzione dei costi di congestione pari a 216.636 € per le autovetture e 3.767 € per i bus, con un beneficio complessivo annuo stimato in circa 220.403 €. Anche in questo caso si assume che tale beneficio rimanga costante negli anni di analisi, contribuendo in modo stabile alla sostenibilità economica e ambientale dell’intervento, migliorando la qualità della mobilità e riducendo l’impatto negativo del traffico stradale sulle infrastrutture e sugli utenti della rete viaria.
+Riduzione dell’incidentalità
+Gli interventi per il ripristino del servizio ferroviario e per il miglioramento degli standard di sicurezza della linea (SCMT) della tratta oggetto di analisi determinano un beneficio economico imputabile alla riduzione dell’incidentalità stradale, riconducibile alla diminuzione dei veicoli leggeri circolanti conseguente allo shift modale verso il trasporto ferroviario. Il trasferimento di quote di traffico dalla modalità stradale a quella ferroviaria comporta, infatti, una minore esposizione al rischio di incidente, con conseguente riduzione dei costi esterni associati.
+Sulla base delle previsioni RFI, la riduzione dei chilometri veicolari imputabile all’intervento è pari a 3,38 mln di veicoli·km/anno. Il costo unitario marginale dell’incidentalità per i veicoli leggeri, pari a 0,020 €/veicoli·km, è stato rivalutato al 2025 applicando un coefficiente di aggiornamento monetario pari a 1,188, calcolato sulla base dell’indice ISTAT per il periodo gennaio 2019 – marzo 2025.
+Tale valore, applicato ai 16 feriti rilevati nel 2023 lungo la tratta SS054 di Udine (km 0–15), secondo i dati pubblicati dall’ACI – Localizzazione degli incidenti stradali, consente di stimare una riduzione potenziale di feriti annui pari a 2,4. Si evidenzia, inoltre, che nel triennio 2021–2023 il numero di incidenti è aumentato del 33% (da 6 a 9) e il numero di feriti del 37,5% (da 10 a 16), a conferma di una crescente criticità in termini di sicurezza stradale su tale tratto.
+
+Non disponendo di informazioni disaggregate sui mezzi coinvolti negli incidenti, e ritenendo trascurabile il contributo degli autobus alla dinamica incidentale locale, si è proceduto a valorizzare esclusivamente la componente riconducibile ai veicoli leggeri. 
+In conclusione, applicando il costo unitario marginale dell’incidentalità ai chilometri*veicolo evitati, il beneficio economico annuo attribuibile alla riduzione dell’incidentalità risulta pari a circa 68.200 €, da considerarsi costante lungo l’orizzonte temporale di riferimento.
+Riduzione inquinamento acustico
+Il ripristino e l’elettrificazione della linea ferroviaria Udine–Cividale rappresenta, inoltre, un intervento strategico con impatti ambientali e socioeconomici positivi, in particolare sotto il profilo della riduzione dell’inquinamento acustico, un parametro cruciale per la sostenibilità e l’accettabilità sociale delle infrastrutture di trasporto.
+Il beneficio acustico si articola su due direttrici temporali distinte ma complementari.
+In primo luogo, nel biennio 2026-2027, il ripristino del servizio ferroviario consente di sostituire una quota significativa di traffico su gomma — sia veicoli privati che autobus sostitutivi — con un trasporto ferroviario che, seppur ancora basato su trazione termica, comporta un trasferimento modale che riduce l’inquinamento acustico complessivo dovuto alla circolazione stradale. Le previsioni di RFI indicano un risparmio annuo di circa 3,38 milioni veicoli·km e 198 mila bus·km, che, valorizzati mediante i costi marginali medi del rumore definiti dalla Commissione Europea per le autovetture pari a 0,01 €/veicoli.km e per i bus a 0,13 €/bus.km e aggiornati al 2025 tramite un coefficiente di rivalutazione monetaria pari a 1,188, producono rispettivamente un beneficio economico stimato in circa 40.118 € e 30.606 € per anno. Tale valutazione monetizza l’esternalità negativa del rumore, riconosciuta come fonte di disutilità e di danno sanitario per le popolazioni esposte, e riflette il risparmio sociale associato alla diminuzione del traffico veicolare su gomma.
+Tuttavia, lo shift modale connesso al solo ripristino dell’esercizio ferroviario non comporta un beneficio, in quanto condizionato dall’adozione temporanea dei treni diesel sui convogli ferroviari. L’analisi economica stima un costo acustico marginale per i treni diesel, rivalutato ai prezzi correnti, pari a 5,90 €/treno·km, valore più elevato rispetto ai mezzi su gomma, che viene applicato a un volume di percorrenza annuo di 144.125 treno·km. Ne deriva un costo sociale complessivo di circa 850.966 € annui, che determina un saldo netto negativo degli effetti del solo ripristino del servizio ferroviario nel periodo considerato (2026-2027) di circa -780.242 € annui. Questo dato evidenzia come, nel breve termine, la scelta tecnologica della trazione termica rappresenti un fattore limitante per i benefici acustici complessivi del progetto, annullando i vantaggi ottenuti dalla riduzione del traffico stradale.
+Dal 2028, l’attivazione della trazione elettrica sulla linea introduce una significativa discontinuità positiva, riducendo il costo marginale del rumore ferroviario a 3,40 €/treno·km, come riportato dalle stesse fonti e, come da prassi, rivalutato ai prezzi correnti.
+Applicando questo parametro al medesimo volume di traffico ferroviario si stima un costo acustico complessivo pari a 489.691 € annui.
+Il passaggio alla trazione elettrica comporta quindi un risparmio netto di circa 361.275 € annui rispetto al regime diesel, riconducibile alla minore emissione sonora dei convogli elettrici, più silenziosi e meno impattanti per le comunità circostanti.
+Integrando questo beneficio con il vantaggio derivante dalla riduzione del traffico su gomma (sia veicolare che autobus), il beneficio complessivo stimato a partire dal 2028 raggiunge circa 431.999 € annui. Tale valore rappresenta un’importante esternalità positiva del progetto, contribuendo a migliorare la qualità ambientale del territorio e la vivibilità delle aree limitrofe alla linea ferroviaria.
+In linea con le best practices di valutazione economica delle esternalità acustiche, si assume che tali benefici siano stabili e permanenti nel tempo (a partire dal 2028), riflettendo un flusso costante di riduzione del rumore nel lungo periodo post-intervento.
+Benefici ambientali
+È importante sottolineare che l’elettrificazione della linea ferroviaria Udine–Cividale genera benefici ambientali significativi in termini di riduzione delle esternalità negative associate all’inquinamento atmosferico e alle emissioni di gas climalteranti prodotte dal traffico stradale. Tali benefici si articolano temporalmente in due fasi distinte, coerenti con la progressiva evoluzione tecnologica dell’infrastruttura ferroviaria.
+Fase 1 – Anni 2026–2027: ripristino del servizio ferroviario con treni diesel
+Nel biennio iniziale successivo al completamento dei lavori di adeguamento infrastrutturale e tecnologico, il servizio ferroviario sarà garantito da convogli a trazione termica. In questa fase si osservano due effetti ambientali contrapposti:
+Benefici legati alla riduzione dei flussi veicolari su gomma, che comportano una diminuzione delle emissioni di CO₂ e di inquinanti atmosferici (NOₓ, SO₂, NMVOC, PM₂.₅), secondo fattori emissivi standard per tipologia di veicolo;
+Costi ambientali aggiuntivi derivanti dall’introduzione della trazione diesel, il cui impatto emissivo per km percorso risulta superiore rispetto al beneficio ottenuto dalla riduzione del trasporto su gomma per diversi inquinanti atmosferici, con particolare incidenza per NOₓ e particolato fine (PM₂.₅).
+Il saldo ambientale netto risulta negativo in questa prima fase, in quanto i maggiori fattori emissivi dei treni diesel annullano — e superano — i benefici associati allo shift modale. La quantificazione monetaria di questo impatto avviene attraverso l’applicazione dei valori di danno marginale per tonnellata emessa (€/ton), come valorizzati dalla Commissione Europea e dall’Agenzia Europea per l’Ambiente, rivalutati ai prezzi correnti.
+Fase 2 – Dal 2028: esercizio ferroviario elettrico
+Con l’attivazione della linea elettrificata prevista per il 2028, l’impatto ambientale migliora sensibilmente grazie a due fattori:
+Eliminazione delle emissioni dirette locali da parte dei treni, in quanto la trazione elettrica non genera inquinanti atmosferici lungo la tratta;
+Riduzione netta delle emissioni di CO₂, derivante dal confronto tra:
+le emissioni indirette associate alla produzione di energia elettrica utilizzata per alimentare i treni (espresse in gCO₂/kWh), e
+le emissioni evitate per effetto della sostituzione del treno diesel e dello spostamento modale da auto private e autobus a ferrovia, entrambe tipologie di trasporto caratterizzate da emissioni pro-capite più elevate.
+Quest’ultima componente che concorre al calcolo del beneficio ambientale complessivo è monetizzata applicando un valore monetario alle emissioni della CO₂ nel tempo in coerenza con gli obiettivi di policy della Commissione Europea in funzione dello scenario e dell’orizzonte temporale considerato. La modellizzazione dei flussi emissivi ha, inoltre, tenuto considerazione anche l’andamento del prezzo della CO2 negli anni di analisi, in linea con le indicazioni della Banca Europea degli Investimenti (si veda la Tabella 4 per un maggiore dettaglio), rivalutato agli indici ISTAT tra gennaio 2016 e marzo 2025 (i.e., è stato applicato un tasso di rivalutazione monetaria pari a 1,218).
+Tabella 1 – Sintesi dei valori di costo della CO2 negli anni di analisi (€/kg)
+
+Anno
+Prezzo CO2
+Anno
+Prezzo CO2
+2026
+0,222
+2041
+0,672
+2027
+0,242
+2042
+0,705
+2028
+0,263
+2043
+0,738
+2029
+0,284
+2044
+0,771
+2030
+0,305
+2045
+0,804
+2031
+0,339
+2046
+0,838
+2032
+0,373
+2047
+0,872
+2033
+0,407
+2048
+0,906
+2034
+0,441
+2049
+0,940
+2035
+0,475
+2050
+0,974
+2036
+0,508
+2051
+0,974
+2037
+0,541
+2052
+0,974
+2038
+0,574
+2053
+0,974
+2039
+0,607
+2054
+0,974
+2040
+0,639
+
+
+
+Il risultato complessivo è quindi determinato dalla somma dei benefici ambientali (o costi evitati) calcolati separatamente per ciascun inquinante: CO₂, NOₓ, SO₂, NMVOC e PM₂.₅., e riflette una dinamica di lungo periodo favorevole all’investimento, tanto più significativa quanto più si prolunga l’orizzonte di esercizio dell’infrastruttura e si tiene conto dell’evoluzione delle politiche ambientali e dei costi sociali della carbon footprint di derivazione comunitaria.
+Ciascuna componente sarà analizzata nel dettaglio nei paragrafi successivi, in modo da garantire piena trasparenza metodologica e tracciabilità dei risultati.
+A titolo introduttivo, il grafico seguente fornisce una vista sintetica aggregata della valorizzazione economica dei benefici ambientali annuali unitari (mln €/kg) associati a ciascun fattore di emissione a seguito dell’intervento per i 29 anni di analisi considerati (2026-2054).
+
+Grafico 1 – Sintesi dei valori economici dei benefici ambientali annui complessivi associati ai vari fattori inquinanti (mln €/kg)
+
+
+Emissioni di CO2
+L’elettrificazione della linea ferroviaria Udine–Cividale comporta effetti ambientali rilevanti in termini di riduzione delle emissioni climalteranti, in particolare dell’anidride carbonica (CO₂). Tali effetti si manifestano sia per la sostituzione del trasporto stradale con il trasporto ferroviario (shift modale), sia per il miglioramento tecnologico associato al passaggio da trazione diesel a trazione elettrica. Il presente paragrafo tratta della quantificazione delle emissioni di CO2 nell’orizzonte temporale di analisi e della relativa valorizzazione.
+Nel periodo 2026–2027, a valle del ripristino della linea ma prima del completamento dell’elettrificazione, il servizio viene svolto mediante treni a trazione diesel. In questa fase transitoria, i benefici ambientali derivano dalla riduzione dei chilometri percorsi da veicoli privati e autobus sostitutivi, mediante l’applicazione dei fattori emissivi rispettivamente pari a 0,17 kg CO₂ per veicolo·km e 1,012 kg CO₂ per bus·km. Questi benefici sono in parte annullati dalle emissioni prodotte dai treni diesel stessi, il cui fattore di emissione è pari a 3,483 kg CO₂ per treno·km, secondo le stime più recenti pubblicate dall’Agenzia Europea per l’Ambiente.
+Per l’anno 2026, la monetizzazione di questi flussi emissivi, effettuata attraverso l’applicazione del valore monetario della CO₂ modellizzato per anno e rivalutato ai prezzi correnti, restituisce un beneficio ambientale netto pari a 60.438 €. Questo valore è ottenuto come saldo tra un impatto negativo derivante dall’utilizzo della trazione diesel, quantificato in 111.278 € annui, e i benefici positivi pari a 127.259 € per la riduzione dell’uso dei veicoli privati e 44.457 € per l’eliminazione dei bus sostitutivi.
+A partire dal 2028, con l’entrata in esercizio della linea elettrificata, il bilancio emissivo migliora sensibilmente. Il treno elettrico, con un consumo stimato in 12 kWh per chilometro percorso e un fattore di emissione pari a 0,252 kg CO₂ per kWh, produce circa 3,024 kg CO₂ per treno·km. Il confronto con la trazione diesel evidenzia una riduzione specifica di 0,459 kg CO₂ per treno·km, che rappresenta la quota di emissioni evitate grazie all’elettrificazione.
+Nell’anno di avvio della trazione elettrica, il beneficio ambientale netto risulta già sostanzialmente più elevato rispetto al periodo transitorio. La monetizzazione complessiva dei benefici da CO₂ nel 2028 ammonta a 221.199 €, di cui 17.404 € attribuibili al risparmio diretto del passaggio da treni a trazione diesel a treni a trazione elettrica, 151.033 € alla riduzione del traffico veicolare privato e oltre 52.762 € all’eliminazione dei bus sostitutivi.
+Questo miglioramento progressivo del bilancio economico dei fattori emissivi continua nei decenni successivi, anche grazie all’incremento previsto del valore economico unitario del carbonio nel lungo periodo. Infatti, secondo le linee guida della EIB, il costo sociale della CO₂ è destinato a crescere sistematicamente fino al 2054, riflettendo la crescente scarsità del carbon budget globale e l’urgenza di contenere gli effetti del cambiamento climatico.
+Nel 2054, il beneficio ambientale annuo associato alle sole emissioni di CO₂ si attesta a 819.255
+€. In particolare, il contributo derivante dalla trazione elettrica si stima in oltre 64.460 €, mentre l’effetto dello shift modale è ancora più rilevante: circa 559.380 € di benefici da auto private evitate e 195.416 € da autobus sostitutivi eliminati.
+I benefici ambientali descritti in questo paragrafo, indicati nel grafico 2, rappresentano una prima stima sintetica del valore ambientale generato dall’intervento, in funzione delle emissioni di CO2, e verranno successivamente articolati nel dettaglio nella sezione dedicata ai singoli inquinanti. La CO₂ costituisce infatti solo una delle componenti dell’impatto ambientale complessivo, che include anche altre sostanze climalteranti e inquinanti atmosferici di rilievo locale e sanitario (NOₓ, SO₂, NMVOC e PM2.5), la cui analisi sarà condotta con approccio analogo.
+
+Grafico 2 – Sintesi dei valori economici dei benefici ambientali annui associati alle emissioni di CO2 per tipologia di mezzo (€/kg)
+
+
+
+Fattori inquinanti
+Oltre ai benefici ambientali associati alla riduzione delle emissioni climalteranti, l’intervento di elettrificazione genera vantaggi significativi in termini di qualità dell’aria. In particolare, l’analisi considera quattro tra i principali inquinanti atmosferici: ossidi di azoto (NOₓ), anidride solforosa (SO₂), particolato fine (PM2.5) e composti organici volatili non metanici (NMVOC). Il presente paragrafo tratta della stima delle emissioni inquinanti in termini quantitativi e nella relativa valorizzazione economica.
+Per quantificare i benefici associati alla riduzione di tali sostanze, è stato adottato un approccio tecnico-economico fondato sulla stima della dinamica evolutiva dei fattori emissivi nel tempo, distinta per ciascuna tipologia di mezzo di trasporto (treni, autobus e veicoli privati). 
+Per quanto riguarda i treni, l’evoluzione dei fattori di emissione è stata stimata mediante un’analisi di benchmark con i valori adottati nell’analisi costi-benefici dell’intervento sulla linea Jonica. In tale contesto, è stato osservato un tasso di variazione annuo medio dei fattori inquinanti pari a -1,33%, che riflette la progressiva diffusione di tecnologie ferroviarie più efficienti e meno impattanti sotto il profilo emissivo. Tale valore è stato adottato anche per la linea in esame, ritenendo le condizioni tecnologiche, infrastrutturali e normative comparabili.
+Nel caso delle autovetture e dei bus, il tasso di variazione annuo dei fattori emissivi è stato stimato sulla base della proiezione del parco veicolare circolante al 2054 e di conseguenza come valore allineato al tasso di variazione annuo del parco mezzi. L’ipotesi metodologica prevede un’evoluzione graduale della composizione del parco mezzi, coerente con le proiezioni demografiche della popolazione residente in Italia al 2050. La nota metodologica è descritta nella seguente tabella di focus.
+
+Focus: Nota metodologica del calcolo di stima del parco mezzi al 205
+Secondo il Book Unità Nazionale Rappresentanti Autoveicoli Esteri (UNRAE) 2024, il parco veicolare complessivo (autovetture e veicoli commerciali leggeri) in Italia nel 2024 ammonta a circa 40,57 milioni di unità. Il tasso di motorizzazione delle autovetture risulta pari a 701 veicoli ogni 1.000 abitanti. Parallelamente, le proiezioni demografiche ufficiali dell’ISTAT indicano una contrazione della popolazione residente da circa 59 milioni nel 2022 a 54,4 milioni nel 2050.
+A parità di tasso di motorizzazione, ciò implicherebbe una riduzione del parco veicolare a circa 37,4 milioni di unità entro il 2050. Per completezza, sono stati considerati tre scenari alternativi di tasso di motorizzazione:
+
+Scenario
+Tasso motorizzazione (veicoli / 1.000 ab.)*
+Popolazione 2050 (milioni)
+Parco stimato 2050 (milioni)**
+Basso
+650
+54,4
+35,4
+Stabile
+687 (tasso effettivo 2024)
+54,4
+37,4
+Alto
+750
+54,4
+40,8
+
+       *Parco veicoli al 2024/Popolazione al 2022
+       **Popolazione 2050*Tasso motorizzazione
+Lo scenario centrale (stabile) adottato nell’analisi (tasso 687 veicoli/1.000 abitanti) riflette un’ipotesi conservativa di stabilità della motorizzazione privata, a fronte di una lieve flessione demografica.
+
+      Derivazione del tasso di variazione annua dei fattori emissivi
+A partire dalle ipotesi sopra esposte, è stato stimato un tasso annuo di variazione dei fattori inquinanti per autovetture e autobus, applicato alle emissioni specifiche di ciascun inquinante (espressi in grammi/km). Questo coefficiente riflette la riduzione attesa dei valori medi ponderati di emissione derivanti dalla trasformazione graduale del parco mezzi.
+
+Scenario
+Parco stimato 2024 (milioni)
+Parco stimato 2050 (milioni)
+CAGR Parco stimato 2050 (milioni)
+Basso
+40,57
+35,4
+-0,52%
+Stabile
+40,57
+37,4
+-0,31%
+Alto
+40,57
+40,8
+0,02%
+
+      Limiti dell’approccio e scenari alternativi
+L’approccio adottato rappresenta una media ponderata tra vincoli strutturali, trend osservati e obiettivi normativi. Tuttavia, si riconosce che l’evoluzione del parco veicolare potrà essere influenzata da:
+dinamiche demografiche, quali l’andamento della natalità, dell’immigrazione e dell’urbanizzazione;
+politiche pubbliche in materia di mobilità sostenibile, accesso urbano e incentivi
+all’elettrico;
+innovazione tecnologica, in particolare l’avvento della guida autonoma e del Mobility- as-a-Service (MaaS);
+normativa ambientale, che potrebbe accelerare l’uscita dal mercato dei veicoli più
+inquinanti.
+Per questi motivi, le proiezioni vanno intese come scenari di riferimento tecnico-economici, utili a valutare la sostenibilità complessiva del progetto, pur nella consapevolezza della variabilità che caratterizza gli scenari di lungo periodo.
+
+Per la quantificazione dei benefici ambientali associati alle emissioni dei principali inquinanti atmosferici (NOₓ, SO₂, PM2.5, NMVOC), è stata adottata una metodologia integrata che combina i chilometri percorsi o evitati dalle diverse modalità di trasporto con i rispettivi fattori di emissione, opportunamente modulati nel tempo attraverso l’applicazione di tassi di variazione annua. Tali tassi sono coerenti con quanto illustrato nella nota metodologica precedentemente descritta e riflettono l’evoluzione tecnologica e normativa attesa nel medio- lungo periodo. Inoltre, è stato considerato un consumo medio di diesel per treno pari a 0,5 kg/km.
+Il beneficio è quindi monetizzato mediante l'applicazione di un valore monetario unitario per ciascun kg di inquinante emesso per chilometro di percorso evitato al fattore di emissione annualmente aggiornato, conformemente alla prassi adottata nelle valutazioni economiche delle esternalità ambientali.
+In particolare:
+I dati di traffico considerati includono: 144.125 km/anno percorsi sia da treni diesel sia da treni elettrici (nei rispettivi scenari di riferimento), 3,38 milioni di km/anno evitati da veicoli privati e 198 mila km/anno evitati da autobus, in coerenza con gli approcci adottati per la stima dei benefici precedentemente descritti.
+I fattori di emissione specifici per ciascun inquinante e modalità di trasporto, riportati nelle Tabelle 5, 6, 7, sono stati stimati a partire dai dati ISPRA e dell’Agenzia Europea per l’Ambiente. A partire dal 2025, essi sono stati aggiornati annualmente applicando un tasso di decrescita pari a -1,33% per i treni e -0,31% per veicoli privati e autobus, in linea con le previsioni di evoluzione tecnologica nel parco circolante e nel materiale rotabile e le proiezioni demografiche.
+I valori monetari unitari attribuiti alle emissioni di ciascun inquinante riportati nella Tabella 8, sulla base dei valori indicati dalla Commissione Europea, sono stati opportunamente aggiornati per tener conto del valore attuale delle esternalità e rivalutati ai tassi correnti.
+Tabella 2 – Sintesi dei valori dei fattori inquinanti per i treni diesel
+
+Anno
+SO2
+(kg/treno.km)
+NOx
+(kg/ton.diesel)
+NMVOC
+(kg/ton.diesel)
+PM2.5
+(kg/ton.diesel)
+2026
+0,023
+53,68
+4,95
+2,15
+2027
+0,023
+52,96
+4,89
+2,12
+2028
+0,023
+52,26
+4,82
+2,09
+2029
+0,022
+51,56
+4,76
+2,07
+2030
+0,022
+50,88
+4,69
+2,04
+2031
+0,022
+50,20
+4,63
+2,01
+2032
+0,021
+49,53
+4,57
+1,98
+2033
+0,021
+48,87
+4,51
+1,96
+2034
+0,021
+48,22
+4,45
+1,93
+2035
+0,021
+47,58
+4,39
+1,91
+2036
+0,020
+46,95
+4,33
+1,88
+2037
+0,020
+46,32
+4,27
+1,86
+2038
+0,020
+45,70
+4,22
+1,83
+2039
+0,019
+45,10
+4,16
+1,81
+2040
+0,019
+44,50
+4,11
+1,78
+2041
+0,019
+43,90
+4,05
+1,76
+2042
+0,019
+43,32
+4,00
+1,74
+2043
+0,018
+42,74
+3,94
+1,71
+2044
+0,018
+42,17
+3,89
+1,69
+2045
+0,018
+41,61
+3,84
+1,67
+2046
+0,018
+41,06
+3,79
+1,65
+2047
+0,018
+40,51
+3,74
+1,62
+2048
+0,017
+39,97
+3,69
+1,60
+2049
+0,017
+39,44
+3,64
+1,58
+2050
+0,017
+38,92
+3,59
+1,56
+2051
+0,017
+38,40
+3,54
+1,54
+2052
+0,016
+37,89
+3,50
+1,52
+2053
+0,016
+37,38
+3,45
+1,50
+2054
+0,016
+40,28
+3,40
+1,48
+
+Tabella 3 – Sintesi dei valori dei fattori inquinanti per i veicoli (kg/veicoli.km) 
+
+Anno
+SO2
+NOx
+NMVOC
+PM2.5
+2026
+0,000001
+0,000399
+0,000419
+0,000022
+2027
+0,000001
+0,000398
+0,000417
+0,000022
+2028
+0,000001
+0,000396
+0,000416
+0,000022
+2029
+0,000001
+0,000395
+0,000415
+0,000022
+2030
+0,000001
+0,000394
+0,000414
+0,000022
+2031
+0,000001
+0,000393
+0,000412
+0,000022
+2032
+0,000001
+0,000391
+0,000411
+0,000022
+2033
+0,000001
+0,000390
+0,000410
+0,000021
+2034
+0,000001
+0,000389
+0,000408
+0,000021
+2035
+0,000001
+0,000388
+0,000407
+0,000021
+2036
+0,000001
+0,000387
+0,000406
+0,000021
+2037
+0,000001
+0,000385
+0,000405
+0,000021
+2038
+0,000001
+0,000384
+0,000403
+0,000021
+2039
+0,000001
+0,000383
+0,000402
+0,000021
+2040
+0,000001
+0,000382
+0,000401
+0,000021
+2041
+0,000001
+0,000381
+0,000400
+0,000021
+2042
+0,000001
+0,000379
+0,000398
+0,000021
+2043
+0,000001
+0,000378
+0,000397
+0,000021
+2044
+0,000001
+0,000377
+0,000396
+0,000021
+2045
+0,000001
+0,000376
+0,000395
+0,000021
+
+2046
+0,000001
+0,000375
+0,000393
+0,000021
+2047
+0,000001
+0,000374
+0,000392
+0,000021
+2048
+0,000001
+0,000372
+0,000391
+0,000020
+2049
+0,000001
+0,000371
+0,000390
+0,000020
+2050
+0,000001
+0,000370
+0,000389
+0,000020
+2051
+0,000001
+0,000369
+0,000387
+0,000020
+2052
+0,000001
+0,000368
+0,000386
+0,000020
+2053
+0,000001
+0,000367
+0,000385
+0,000020
+2054
+0,000001
+0,000366
+0,000384
+0,000020
+
+Tabella 4– Sintesi dei valori dei fattori inquinanti per i bus (kg/bus.km) 
+
+Anno
+SO2
+NOx
+NMVOC
+PM2.5
+2026
+0,000004
+0,005882
+0,000237
+0,000172
+2027
+0,000004
+0,005863
+0,000237
+0,000172
+2028
+0,000004
+0,005845
+0,000236
+0,000171
+2029
+0,000004
+0,005827
+0,000235
+0,000171
+2030
+0,000004
+0,005809
+0,000234
+0,000170
+2031
+0,000004
+0,005791
+0,000234
+0,000170
+2032
+0,000004
+0,005773
+0,000233
+0,000169
+2033
+0,000004
+0,005755
+0,000232
+0,000169
+2034
+0,000004
+0,005737
+0,000231
+0,000168
+2035
+0,000004
+0,005720
+0,000231
+0,000168
+2036
+0,000004
+0,005702
+0,000230
+0,000167
+2037
+0,000004
+0,005684
+0,000229
+0,000167
+
+2038
+0,000004
+0,005667
+0,000229
+0,000166
+2039
+0,000004
+0,005649
+0,000228
+0,000166
+2040
+0,000004
+0,005632
+0,000227
+0,000165
+2041
+0,000004
+0,005614
+0,000226
+0,000165
+2042
+0,000004
+0,005597
+0,000226
+0,000164
+2043
+0,000004
+0,005579
+0,000225
+0,000164
+2044
+0,000004
+0,005562
+0,000224
+0,000163
+2045
+0,000004
+0,005545
+0,000224
+0,000163
+2046
+0,000004
+0,005528
+0,000223
+0,000162
+2047
+0,000004
+0,005510
+0,000222
+0,000162
+2048
+0,000004
+0,005493
+0,000222
+0,000161
+2049
+0,000004
+0,005476
+0,000221
+0,000161
+2050
+0,000004
+0,005459
+0,000220
+0,000160
+2051
+0,000004
+0,005442
+0,000220
+0,000160
+2052
+0,000004
+0,005426
+0,000219
+0,000159
+2053
+0,000004
+0,005409
+0,000218
+0,000159
+2054
+0,000004
+0,005392
+0,000218
+0,000158
+
+Tabella 5 – Sintesi dei valori monetari associati a ciascun fattore inquinante per tipologia di fattore inquinante (€/kg)
+
+SO2
+NOx
+NMVOC
+PM2.5
+15,088
+53,68
+1,30
+156,8
+0,023
+52,26
+4,82
+2,09
+0,022
+51,56
+4,76
+2,07
+
+Coerentemente con la struttura dei benefici precedentemente quantificati, nel biennio 2026- 2027 il beneficio ambientale associato ai treni risulta negativo, poiché l’esercizio ferroviario si basa ancora sull’impiego di treni diesel, i cui elevati livelli emissivi generano un disvalore economico. In tale periodo, il beneficio ambientale netto complessivo risulta sostenuto principalmente dalla riduzione delle emissioni derivanti dal minor utilizzo di veicoli privati e autobus su gomma. Tuttavia, il bilancio complessivo è negativo per il prevalere del disvalore della trazione diesel dei treni.
+A partire dal 2028, con il completamento dell’elettrificazione della linea ferroviaria e la conseguente eliminazione delle emissioni dirette da treni diesel, si osserva un’inversione del segno del beneficio netto associato al segmento ferroviario. L’azzeramento delle emissioni da trazione elettrica determina un significativo incremento del beneficio ambientale complessivo, rafforzando la sostenibilità ambientale ed economica dell’intervento nel lungo periodo.
+Nei grafici seguenti sono rappresentati i benefici ambientali legati alle emissioni dei fattori inquinanti in oggetto espressi in termini economici per ciascuna tipologia di mezzo.
+
+Grafico 3 – Sintesi dei valori economici dei benefici ambientali annui associati al fattore inquinante NOx per tipologia di mezzo (€/kg)
+
+
+Grafico 4 – Sintesi dei valori economici dei benefici ambientali annui associati al fattore inquinante SO2 per tipologia di mezzo (€/kg)
+
+
+
+Grafico 5 – Sintesi dei valori economici dei benefici ambientali annui associati al fattore inquinante NMVOC per tipologia di mezzo (€/kg)
+
+
+Grafico 6 – Sintesi dei valori economici dei benefici ambientali annui associati al fattore inquinante PM2.5 per tipologia di mezzo (€/kg)
+
+
+
+In quanto segue si fornisce una ripartizione grafica delle quote di contributo dei benefici generati dall’analisi costi benefici a favore dell’elettrificazione della linea ferroviaria Udine-Cividale. Si osserva, dunque, che la maggioranza dei benefici deriva dal risparmio di tempo generato dagli shift modali rispetto alle tipologie di mezzo alternative al treno (automobili e bus) (42%), seguita dalla riduzione delle emissioni dei fattori inquinanti e climalteranti (28%) e dalla riduzione dell’inquinamento acustico grazie ad una minore circolazione dei veicoli su strada e ad un miglioramento delle prestazioni acustiche da parte dei treni elettrici (17%).
+
+Grafico 7 - Riepilogo benefici non attualizzati (mln € - %)
+
+
+
+
+
+Analisi Opzioni Reali
+L’evoluzione dei prossimi anni del servizio ferroviario Udine-Cividale è al momento configurata in forma certa solo fino allo scenario temporale 2028, orizzonte in cui al ripristino del servizio ferroviario si sommano i miglioramenti in termini di performance (velocità e sicurezza) ed i vantaggi derivanti dalla elettrificazione della linea.
+È evidente che in una valutazione dei benefici che si estende per un orizzonte di 30 anni, può apparire riduttivo considerare invariate le caratteristiche del servizio ferroviario, in particolare in una operazione che vede il subentro di RFI – Concessionario della Infrastruttura Ferroviaria Nazionale (circa 17.000 km) – nella gestione della linea Udine-Cividale (15 km).
+Tenuto conto che il valore di una rete è definito, in termini non lineari, dal grado di interconnessione dei nodi del sistema intermodale o intramodale che la costituisce, risultano evidenti le opportunità che la proposta di integrazione, nella rete ferroviaria nazionale, della linea regionale friulana assume per la connotazione strategica della stessa. Inoltre, l’operazione costituisce anche una opportunità di RFI e del Gruppo di estendere il proprio ambito di azione, oltre che per l'intero "sistema Paese" in una logica di razionalizzazione degli asset e delle risorse pubbliche.
+Nello specifico l'integrazione della linea Udine-Cividale nella rete di RFI permetterà di servire in maniera più strutturata Cividale, con la possibilità di estendere i servizi esistenti sulla rete RFI. 
+In ragione di queste evidenti opportunità, si è ritenuto opportuno integrare la precedente valorizzazione dei benefici economico-sociali con una Analisi delle Opzioni Reali.
+Il concetto di Opzione Reale è stato definito per la prima volta in modo esplicito verso la fine degli anni ’70. Stewart Myers (1977) evidenzia che una parte del valore di una iniziativa non deriva dai flussi di cassa ad essa direttamente connessi, ma dall’esercizio di opportunità che l’attuazione dell’iniziativa offre nel nuovo scenario che si andrà a realizzare. 
+Nel caso specifico, l’Analisi delle Opzioni Reali considera l’opzione di “investimento a stadi successivi” e si fonda sull’ipotesi che l’incertezza che grava sulla attuale decisione di ulteriori investimenti, si ridurrà progressivamente dopo l’attuazione di quelli connessi al ripristino, al potenziamento infrastrutturale e tecnologico, alla elettrificazione, così da rendere evidente la decisione migliore in merito all’eventuale esercizio di opzioni successive.
+In un quadro strategico che vede la gestione della linea Udine-Cividale da parte di RFI come un primo passo in un processo di progressivo miglioramento del servizio ferroviario e nell’integrazione della linea nella rete ferroviaria nazionale, appare doveroso considerare, seppure nella attuale incertezza, le prospettive di sviluppo della mobilità ferroviaria. 
+L’Analisi delle Opzioni Reali si prefigge di verificare i benefici socio-economici che la nuova configurazione infrastrutturale, che si raggiungerà quando si completano i lavori al momento programmati, rende possibili e che derivano dalla possibilità di esercitare l’opzione di accrescere ed estendere i servizi ferroviari. Questi benefici, valutati in termini differenziali, si riferiscono alle seguenti dimensioni di analisi: incremento dell’offerta ferroviaria e quindi della frequenza dei servizi; estensione dei servizi ferroviari regionali sulla rete nazionale.
+L’output dell’Analisi delle Opzioni Reali è la stima del valore incrementale e delle soglie di convenienza connesse a queste due opportunità, che si sommano ai risultati propri della valorizzazione dei benefici dei soli investimenti conclusi, in corso e programmati.
+La logica delle opzioni reali è la stessa delle opzioni finanziarie, il progetto costituisce, quindi, un’opzione di tipo "call", perché esso dà il diritto, a un prezzo d’esercizio prestabilito, costituito dal costo d’investimento, di accedere ad un cespite "sottostante" (così come la "call" dà il diritto di acquisire un titolo). Tale cespite è costituito, oltre che dal Van, dal valore totale netto risultante dalle altre opzioni create o distrutte dal progetto stesso. Il valore di un’opzione "call" alla sua scadenza T è indicato come:
+
+Max (0, S(T)-X(T))
+
+Dove S(T) è il valore del sottostante alla scadenza (ossia il titolo che l’opzione dà il diritto di acquistare) e X(T) il prezzo prefissato (il cosiddetto "strike") a cui la "call" dà il diritto di acquisire il titolo stesso.
+Sia il valore atteso del Van, sia quello delle opzioni create o distrutte, non sono costanti, ma variano stocasticamente, ossia in base ad una distribuzione di probabilità, di periodo in periodo. Inoltre, anche alla data di scadenza, il valore del Van del progetto sarà un valore atteso e non un Van definitivo e deterministico (lo stesso avviene peraltro con il titolo finanziario S cui sia stata esercitata la "call"). Se si ipotizza la possibile realizzazione del progetto in un qualunque momento prima della scadenza dell’opzione si è davanti, analogamente a quanto accade nel mercato finanziario a un’"opzione americana", mentre si parla di "opzione europea" quando la decisione di esercitare l’opzione può essere presa solo alla scadenza della stessa.
+Se il progetto non crea e non distrugge altre opzioni se non quella del progetto stesso, quest’ultima, alla scadenza, ha un valore che è semplicemente pari a:
+
+Call (T) = Max (0, (Van(T))
+
+In altri termini, se si dovesse vendere il diritto di intraprendere il progetto nel momento in cui tale diritto scade, per cui il compratore dovrebbe necessariamente intraprendere il progetto, tale diritto avrebbe un valore pari al valore atteso del Van a quella data o a zero, a seconda di quale dei due fosse, al momento dello scambio, il valore maggiore. Il valore dell’opzione alla scadenza è formato da due elementi: uno stocastico, costituito dal valore atteso dei benefici netti del progetto, uno deterministico, dato dal costo. Considerare il costo un dato deterministico può sembrare una forzatura, ma ipotizzando un costo fisso, eventuali scostamenti dello stesso possono essere ricompresi nei benefici netti che sono la variabile fondamentale del Sottostante.
+Il valore dell’opzione oggi, d’altra parte, dipenderà non solo dal suo valore alla data di scadenza, ma anche da quello relativo a tutte le date intermedie. Se però si conosce quello alla scadenza, è evidente che si può scrivere il valore dell’opzione per il periodo immediatamente precedente a quello della scadenza come:
+
+Call (T-1) = Max(0, (Van(T-1)) + Max(0, (Van(T)-Van(T-1))/(1+R)
+
+dove R è un appropriato tasso di attualizzazione. Procedendo a ritroso in questo modo, secondo un processo chiamato di "backward induction", si può ricavare il valore dell’opzione in ogni momento.
+In pratica, poiché non si conosce né il valore dell’opzione alla sua scadenza, né quello alle date intermedie, uno dei modi in cui è possibile valutare un’opzione consiste nel calcolare, per ogni data, il valore di un portafoglio di titoli con le stesse caratteristiche, e quindi con lo stesso valore, del sottostante dell’opzione dei valori possibili, secondo un algoritmo conosciuto come "albero binomiale". Il più noto di tali algoritmi è dovuto a Cox e Rubinstein (1985); esso si basa sull’idea che ad ogni punto del tempo sia possibile definire due stati della natura, di cui uno favorevole e l’altro sfavorevole con determinate probabilità. Poiché l’algoritmo binomiale genera una distribuzione di probabilità che converge rapidamente a una distribuzione normale, in pratica è possibile partire dai parametri (media e varianza) di una distribuzione normale, per generare le probabilità di un albero binomiale (ossia le probabilità dello scenario favorevole e di quello sfavorevole in ogni punto del tempo considerato). 
+
+I parametri sono: il tasso di attualizzazione R e una misura della variabilità (tipicamente la deviazione standard dell’incremento percentuale del valore del Van atteso, correntemente indicata con il nome di volatilità 𝜎), mentre le variabili sono costituite dal valore corrente del Van atteso, che, a sua volta si può scomporre in una parte stocastica (equivalente al sottostante) e in una deterministica (equivalente al prezzo di esercizio) pari all’investimento. Il valore della call progettuale in ogni periodo può essere quindi indicato come:
+
+𝐶𝑎𝑙𝑙 (𝑡) = 𝐹(𝑉𝐴𝑁(𝑡), 𝜎, 𝑅)
+
+Dove 𝜎 indica la volatilità.
+Naturalmente, sia il valore atteso del Van, sia la volatilità possono dipendere da un gran numero di variabili, e possono quindi scomporsi nei rispettivi valori attesi, nelle varianze e nelle covarianze di tali variabili.
+I principali punti di differenziazione tra VAN e VANES sono:
+la distribuzione dei benefici netti attesi, poiché l’opzione assume valori sempre maggiori man mano che il valore atteso del cash flow aumenta, mentre il suo valore non decresce oltre lo zero, nel caso di revisione verso il basso dello stesso valore. Nel caso del Van tradizionale la distribuzione è implicitamente simmetrica, si pone il problema di trovare un tasso di attualizzazione tale da tener conto del rischio, che si applichi a tutti gli scenari. Il modello che combina il Van con il valore di opzione (il Van esteso o Vanes), viceversa, consente di trattare in maniera soddisfacente l'asimmetria della distribuzione.
+Il Van e il Vanes differiscono in maniera sostanziale nel loro trattamento del tempo. Il Van può essere considerato un caso estremo di VANES in cui le opzioni hanno scadenza immediata. Ciò significa che il Van non tiene conto della possibilità di differire alcune decisioni cruciali, quali, in particolare, quella relativa all’espansione di capacità e quella relativa all'utilizzazione della capacità creata con il progetto (le cosiddette opzioni create).
+Nella stima dei valori delle opzioni, è necessario confrontare il valore dell’informazione acquisita con il passare del tempo, con i redditi perduti a causa del differimento della decisione (di espandere la capacità, o di espandere o contrarre l’esercizio).
+Nel caso del progetto Udine-Cividale le opportunità create dal progetto considerate sono:
+Sviluppo, considerando come un servizio ferroviario più frequente possa abilitare un incremento del flusso di utenti di carattere sistematico e turistico verso un’area già importante economicamente e turisticamente come quella di Cividale;
+Integrazione, tenendo conto dell’incremento di traffico che può essere abilitato dall’elettrificazione della rete e dalla possibilità di programmare collegamenti più ampi della attuale relazione Udine-Cividale.
+I parametri di stima dell’opzione di sviluppo sono:
+Incremento dell’offerta dei servizi con cadenzamento alla mezz’ora. Prima della chiusura la linea era impegnata da 16 coppie orarie. Alla riapertura la frequenza dei servizi resta sostanzialmente la stessa: solo qualche rinforzo nelle ore di punta. Nell’opzione di sviluppo si ipotizza uno scenario futuro di pieno utilizzo dell’infrastruttura e della nuova dotazione tecnologica in termini di capacità di trasporto e di possibilità di effettuare incroci, con servizi alla mezz’ora.
+Incremento mobilità sistematica: 27%.
+Presenze turistiche di Cividale nel 2023, dato ISTAT: Movimento dei clienti negli esercizi ricettivi per tipologia ricettiva e residenza dei clienti;
+Spesa turistica degli italiani stimata come media di più fonti tra cui coldiretti, Enit, Osservatorio sull'Economia del Turismo di Unioncamere e delle Camere di commercio, Banca d'Italia;
+Volatilità, ottenuta come variazione delle presenze nel periodo 2017-2023, fonte ISTAT, Movimento dei clienti negli esercizi ricettivi per tipologia ricettiva e residenza dei clienti;
+Incremento turistico atteso:10%
+Durata dell’opzione ipotizzata pari a 5 anni;
+Tasso di sconto del 3%
+Sottostante e Strike dell’opzione sono stimati considerando rispettivamente, l’incremento dei benefici connessi allo shift modale dalla strada alla ferrovia della domanda di trasporto a carattere pendolare, la spesa totale dei turisti e il costo degli esercizi per garantire l’incremento di offerta dei servizi.
+
+Il valore di tale opzione è di 3,89 milioni di euro. Considerando l’incertezza tipica della stima di valori futuri è stata condotta una analisi di sensitività facendo variare la volatilità del sottostante e incremento turistico e di mobilità sistemica. I risultati mostrano una variabilità che va da un minimo di 1,86 milioni di euro ad un massimo di 6,02 milioni di euro con un coefficiente di variabilità del 32%. La tabella seguente mostra i risultati nel dettaglio.
+
+Tabella 6 - Risultati dell’analisi delle opzioni reali – Opzione di Sviluppo
+
+
+Volatilità
+
+
+Incremento mobilità sistemica e turisti
+
+10%
+15%
+20%
+25%
+30%
+
+15%/0%
+1.86 €
+1.93 €
+2.05 €
+2.20 €
+2.36 €
+
+20%/5%
+2.55 €
+2.66 €
+2.83 €
+3.04 €
+3.27 €
+
+27%/10%
+3.47 €
+3.64 €
+3.89 €
+4.18 €
+4.50 €
+
+30%/15%
+3.92 €
+4.11 €
+4.39 €
+4.74 €
+5.11 €
+
+35%/20%
+4.60 €
+4.83 €
+5.18 €
+5.58 €
+6.02 €
+
+Per quanto riguarda l’opzione di integrazione il principale dato di ipotesi è la crescita potenziale di traffico derivante da: 
+Un miglioramento dell’integrazione tra gli orari dei convogli in arrivo nella stazione di Udine e quelli dei treni che da Udine vanno a Cividale e viceversa, tra i treni in arrivo a Udine, con provenienza Cividale, nei confronti degli orari dei treni in partenza nella stazione di Udine. Se si analizza l’orario 2024 dei servizi precedenti la chiusura della linea Udine-Cividale, si è potuto rilevare lo scarso livello di coordinamento tra i servizi nazionali in arrivo a Udine e le partenze da Udine per Cividale: solo l’11% dei servizi in arrivo a Udine presenta una possibilità di gestire la coincidenza per Cividale. Considerato che la linea Udine-Cividale è una antenna, si dimostra la scarsa integrazione di orari con la rete nazionale e, di conseguenza, gli ampi margini di miglioramento sottesi all’Opzione di Integrazione. 
+la possibilità di effettuare servizi più ampi in termini di sviluppo chilometrico e quindi più consoni ad un servizio ferroviario, caratterizzato da una forte componente di costi di esercizio fissi (si pensi ai costi della disponibilità della infrastruttura e del materiale rotabile). Infatti, le analisi della mobilità a livello nazionale mostrano che lo spostamento medio sistematico è più ampio della sola relazione Udine-Cividale. Si riporta un estratto dal 21° Rapporto sulla mobilità degli italiani pubblicato da ISFORT che – con riferimento primo semestre 2024 - evidenzia un valore della distanza media pro-capite giornaliera che si attesta a 23,8 km per la popolazione mobile e a 19,0 km per il totale della popolazione.
+
+
+
+Grafico 7 - Distanza media pro-capite percorsa dichiarata dagli intervistati (numero di km, 2019- I sem 2024)
+
+
+
+A completamento di questa prima sezione di considerazioni sullo sviluppo della domanda di mobilità si riportano i dati sulla lunghezza e la durata dei singoli spostamenti.
+La durata media dello spostamento si è attestata nel primo semestre del 2024 a 20 minuti (16 minuti nella mobilità urbana, 32 minuti in quella extraurbana), contro i 22 minuti del 2023 e, per tornare al regime pre-Covid, i 23 minuti del 2019.
+
+Grafico 8 - La dinamica della lunghezza media degli spostamenti (km) disaggregata per ambito urbano/extraurbano (in km, 2019-I sem 2024)
+
+
+
+
+
+
+
+
+
+Grafico 9 - La dinamica dei tempi medi degli spostamenti (minuti) dichiarati dagli intervistati in generale e disaggregata per ambito urbano/extraurbano (in minuti, 2019-I sem 2024)
+
+
+
+Da considerazioni di larga massima, possiamo immaginare che l’opzione “Integrazione” si possa tradurre in un incremento dei viaggiatori fino a valori dell’ordine dei 500.000 pax/anno (+16% rispetto ai volumi di traffico dell’opzione sviluppo). 
+Considerando una volatilità del 10% e una durata di 5 anni, il valore dell’opzione è pari a 2,20 milioni di euro. L’analisi di sensitività, effettuata su volatilità e incremento passeggeri, riporta un minimo pari a 1,18 milioni di euro e un massimo di 3,44 milioni di euro con un coefficiente di variabilità pari al 30%. Nel dettaglio la tabella seguente mostra i risultati:
+
+Tabella 7 - Risultati dell’analisi delle opzioni reali – Opzione di Integrazione
+
+Volatilità
+
+
+
+Incremento passeggeri
+
+5%
+7%
+10%
+15%
+20%
+
+15%
+1.18 €
+1.19 €
+1.23 €
+1.34 €
+1.47 €
+
+20%
+1.57 €
+1.58 €
+1.63 €
+1.77 €
+1.96 €
+
+27%
+2.12 €
+2.13 €
+2.20 €
+2.39 €
+2.65 €
+
+30%
+2.35 €
+2.37 €
+2.44 €
+2.66 €
+2.94 €
+
+35%
+2.74 €
+2.76 €
+2.85 €
+3.11 €
+3.44 €
+
+Risultati
+
+I risultati dell’analisi sono i seguenti:
+Tabella 7 - Indicatori sintetici relativi all’analisi
+
+
+Udine- Cividale
+Valore complessivo dei benefici (mln €)
+61,36
+Benefici attualizzati (mln €)
+37,58
+Opzione di Sviluppo (mln €)
+3,89 €
+Opzione di Integrazione (mln €)
+2,20 €
+
+Tali risultati consolidano la validità economica del progetto, ma non colgono appieno il valore dell’incertezza e delle scelte future che l’intervento abilita. Per tale ragione è stata integrata un’analisi delle opzioni reali, che consente di attribuire un valore alla flessibilità gestionale e strategica introdotta dal progetto.
+
+Le opzioni sono state articolate come segue:
+Sviluppo con incremento dell’offerta di servizi con frequenza alla mezz’ora e conseguente risposta della domanda di trasporto, valutata in termini di elasticità, sia per il bacino del traffico sistematico (studio e lavoro) sia per il bacino del traffico turistico. La valorizzazione di questa opzione (3,89 mln €) rappresenta il valore potenziale derivante da un incremento dei benefici economico-sociali connessi ad una mobilità più sostenibile che alla crescita dei flussi turistici verso un’area a forte vocazione culturale come Cividale, reso possibile da un servizio ferroviario più frequente.
+Integrazione con la rete nazionale sia in termini d’orario che in termini di relazioni servite. Il valore di questa opzione (2,20 mln €) considera la possibilità di estendere in futuro il servizio ferroviario oltre l’attuale tratta Udine–Cividale, grazie alla maggiore interoperabilità garantita dall’elettrificazione, con evidenti benefici di sistema.
+In sintesi, per la riapertura all’esercizio ferroviario e l’elettrificazione della linea Udine–Cividale si stimano importanti benefici economici sia in termini statici (Valore attuale netto dei benefici economico-sociali) che dinamici (Valore attuale netto esteso delle opzioni di sviluppo e integrazione). Il progetto, infatti, crea anche spazio per decisioni future che possono amplificarne l’impatto, in un’ottica di sostenibilità territoriale e resilienza operativa.

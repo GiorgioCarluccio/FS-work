@@ -1,0 +1,1677 @@
+
+=== PAGINA 1 ===
+                         DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                         PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                               DI POLO
+
+          ANALISI OPZIONI REALI
+
+
+          PROGETTO DI INVESTIMENTO:
+       Completamento elettrificazione linea Jonica
+   “Elettrificazione linea Catanzaro Lido – Roccella Jonica”
+                          Lotto 4
+
+
+
+
+
+Business Strategy                                       Il Responsabile                                        Il Responsabile
+                                  Business Strategy                    Strategie di Polo
+
+=== PAGINA 2 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       2 di 42
+
+
+INDICE
+
+ 0 EXECUTIVE SUMMARY .............................................................................................................................. 3
+
+ 1 LA RICHIESTA DEL COMITATO SPECIALE DEL CONSIGLIO SUPERIORE DEI LAVORI
+   PUBBLICI ..................................................................................................................................................... 6
+
+ 2  IL CONTESTO NAZIONALE ........................................................................................................................ 7
+
+ 3 LA RETE ED I SERVIZI DELLA REGIONE CALABRIA ............................................................................. 9
+
+ 4  IL PROGRAMMA DI ELETTRIFICAZIONE DELLA RETE CALABRA .................................................... 19
+
+ 5 GLOBAL PROJECT: METODO E LIMITI .................................................................................................. 24
+
+ 6  ANALISI COSTI BENEFICI DEL SOLO LOTTO 4 (TRATTA CATANZARO L.-ROCCELLA JONICA)
+       .................................................................................................................................................................... 26
+
+ 7 METODOLOGIA DELLE OPZIONI REALI ................................................................................................ 29
+
+ 8 OPZIONE DI ESPANSIONE (REALIZZAZIONE DEL LOTTO 5 DOPO IL LOTTO 4) ............................. 31
+
+ 9 OPZIONE DI SVILUPPO (ABILITAZIONE ALL’INTEGRAZIONE DELLA TRATTA JONICA NELLA
+   RETE REGIONALE) ................................................................................................................................... 33
+
+ 10 OPZIONE DI ATTESA ................................................................................................................................ 33
+
+ 11 CONCLUSIONI QUANTITATIVE ............................................................................................................... 35
+
+ 12 ASPETTI OGGETTO DI ANALISI QUALITATIVA .................................................................................... 36
+  12.1   SICUREZZA STRADALE ......................................................................................................................... 36
+  12.2   POTENZIALE DELL’INFRASTRUTTURA ..................................................................................................... 37
+  12.3   CARATTERISTICHE DEL MATERIALE ROTABILE ELETTRICO ....................................................................... 41
+  12.4   OTTIMIZZAZIONE DEL PROCESSO PRODUTTIVO DEL TRASPORTO ............................................................. 41
+
+=== PAGINA 3 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       3 di 42
+
+
+    0  EXECUTIVE SUMMARY
+
+    Nell’ambito dell’iter autorizzativo del Progetto di Fattibilità Tecnico Economica dell’investimento
+    relativo al lotto 4 dell’elettrificazione della linea jonica riferito alla tratta Catanzaro Lido – Roccella
+   Jonica, il Comitato Speciale del Consiglio Superiore dei Lavori Pubblici ha rilevato la necessità di
+   integrazioni alla Analisi Costi Benefici che è stata redatta considerando l’intero completamento
+    dell’elettrificazione della linea jonica sud (Global Project) ed avente per oggetto sia il lotto 4 (tratta
+   Catanzaro Lido – Roccella Jonica), sia il lotto 5 (tratta Roccella Jonica - Melito Porto Salvo).
+
+
+
+
+
+                           Figura 1 – Global Project dell’Analisi Costi Benefici
+
+    Preso atto che l’Analisi Costi Benefici del Global Project presenta indicatori di redditività positivi,
+      si è provveduto ad integrare la valutazione dell’investimento con una Analisi delle Opzioni Reali,
+     ritenuto lo strumento più adeguato a studiare  i benefici che derivano dall’attuazione del lotto 4
+      dell’elettrificazione (tratta Catanzaro Lido – Roccella Jonica), senza trascurare le prospettive di
+     sviluppo che seguiranno in raggiungimento di questa nuova configurazione infrastrutturale.
+
+         Il concetto di Opzione Reale è stato definito per la prima volta in modo esplicito verso la fine degli
+     anni ’70. Stewart Myers (1977) evidenzia che una parte del valore di una iniziativa non deriva dai
+      flussi di cassa ad essa direttamente connessi, ma dall’esercizio di opportunità che l’attuazione
+      dell’iniziativa offre nel nuovo scenario che si andrà a realizzare.
+
+    Nel caso specifico, l’Analisi delle Opzioni Reali considera l’opzione di “investimento a stadi
+     successivi” e si fonda sull’ipotesi che l’incertezza che grava sulla attuale decisione d’investimento
+      (lotto 4 dell’elettrificazione), si ridurrà progressivamente dopo la sua attuazione, così da rendere
+     evidente la decisione migliore in merito all’eventuale esercizio di opzioni successive (lotto 5
+      dell’elettrificazione).
+
+=== PAGINA 4 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       4 di 42
+
+
+     In un quadro strategico che persegue gli obiettivi di uniformare il sistema di trazione ferroviario su
+      tutta la Regione Calabria ed in particolare sulla direttrice Jonica, oltre che di migliorare l’efficienza
+     dei servizi e ridurre l’impatto ambientale, l’estensione dell’elettrificazione al lotto 5 è condizione
+     necessaria per cogliere pienamente  tali benefici in uno scenario temporale coerente con la
+     realizzazione del lotto 4.
+
+         Il valore aggiunto  fornito dallo strumento  dell’Analisi delle Opzioni Reali è  la valutazione
+     quantitativa dei benefici socio-economici che la nuova configurazione infrastrutturale - che si
+     raggiungerà quando si completa la sequenza dei lotti di elettrificazione dall’1 al 4 già finanziata -
+    rende possibili e che derivano dalla possibilità di esercitare l’opzione di estendere l’elettrificazione
+    anche al lotto 5 (Roccella J. – Melito P.S.). Questi benefici, valutati in termini differenziali,  si
+     riferiscono alle seguenti dimensioni di analisi:
+
+       -   continuità di trazione elettrica;
+
+       -   riduzione dei tempi di viaggio e dei costi operativi del servizio;
+
+       -   eliminazione dei rifornimenti diesel e ottimizzazione dei turni del materiale rotabile;
+
+       -   ulteriore taglio delle emissioni climalteranti e miglioramento della qualità dell’aria nei centri
+          costieri;
+
+       -  maggiore attrattività per il traffico pendolare, turistico e merci.
+
+     L’output dell’Analisi delle Opzioni Reali è la stima del valore incrementale e delle soglie di
+    convenienza per l’avvio del lotto 5, che si sommano ai risultati propri della Analisi Costi Benefici
+     del solo lotto 4.
+
+     In  altri  termini,   il  lotto 5 può essere considerato come   il completamento del progetto  di
+      elettrificazione  dell’intera  rete  regionale e  della  linea  ferroviaria  Jonica  nello  specifico;
+    completamento che è in grado di amplificare  i benefici dei primi 4 lotti (in particolare del 4) e
+     garantire una continuità dei servizi su tutto il territorio regionale. A tal fine sono state considerate
+      le opportunità (opzioni) abilitate dalla realizzazione del lotto 5, che si riflettono in termini di
+     vantaggio posizionale sulla attuazione del lotto 4:
+
+   ➢  Opzione di espansione (realizzazione del lotto 5 dopo il lotto 4);
+
+   ➢  Opzione di sviluppo (abilitazione all’integrazione della tratta jonica nella rete regionale).
+
+     L’opzione  di espansione implementa   il valore  dell’opportunità  di  realizzare   il progetto  di
+      elettrificazione del lotto 5 e conseguentemente di monetizzare tutte le riduzioni di esternalità che
+     tale intervento implica. Inoltre, la realizzazione del lotto 5 permette di ridurre i tempi di percorrenza,
+      la qualità e capacità del servizio ed i costi operativi del trasporto. I parametri utilizzati ed il valore
+     valutato sono i seguenti:
+        •   Volatilità (dato di partenza su cui poi è effettuata una analisi di sensitività): 15%
+        •  Tasso di sconto: 3%
+        •  Valore di opzione: 69,08 milioni di euro.
+
+     L’opzione di sviluppo rappresenta l’abilitazione, dovuta alla realizzazione del progetto di integrare
+      la linea jonica nella rete regionale. Da ciò deriva l’opportunità futura di: ottimizzare le relazioni
+     Origine/Destino oggi limitate dal cambio di trazione ed  il complesso del processo produttivo del
+     trasporto ferroviario. I parametri utilizzati ed il valore valutato sono i seguenti:
+        •   Volatilità (dato di partenza su cui poi è effettuata una analisi di sensitività): 20%
+
+=== PAGINA 5 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       5 di 42
+
+
+        •  Tasso di sconto: 3%
+        •  Valore di opzione: 20,17 milioni di euro.
+
+    Nel complesso l’analisi delle Opzioni Reali conduce alla stima di un valore pari a 89,25 milioni di
+     euro.
+
+     Di contro va considerata l’opzione distrutta dalla realizzazione del progetto che è rappresentata
+     dall’opportunità di realizzare  il progetto stesso in futuro, tale opportunità è definita Opzione di
+     attesa e va sottratta ai risultati del progetto. Il valore dell’opzione di attesa è pari a 39,72 milioni
+      di euro.
+
+         Il risultato complessivo evidenzia come l’opportunità di realizzare l’investimento relativo al lotto 4
+    va considerata non soltanto in termini di breve periodo ma anche tenendo conto delle opportunità
+    che esso abilita e che potranno essere esercitate in futuro se le condizioni saranno favorevoli.
+    Rimandare l’investimento relativo all’elettrificazione del lotto 4 Catanzaro L.-Roccella J. potrebbe
+      far decadere tali opportunità.
+
+     Più in generale si può concludere che, la valutazione economico sociale del solo investimento
+     relativo al lotto 4 Catanzaro L.-Roccella J. dell’elettrificazione, unita ai valori delle opzioni di
+    espansione e di sviluppo che si verranno a configurare una volta ultimati i lavori del citato lotto 4,
+     indica che gli effetti economico-sociali per la collettività saranno positivi e quantificabili in 11,41
+     milioni di euro.
+
+=== PAGINA 6 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       6 di 42
+
+
+    1  LA RICHIESTA DEL COMITATO SPECIALE DEL CONSIGLIO SUPERIORE DEI
+      LAVORI PUBBLICI
+
+    Nell’ambito dell’iter autorizzativo del Progetto di Fattibilità Tecnico Economica dell’investimento
+    relativo al lotto 4 dell’elettrificazione della linea jonica riferito alla tratta Catanzaro Lido – Roccella
+   Jonica, il Comitato Speciale del Consiglio Superiore dei Lavori Pubblici ha rilevato la necessità di
+    integrazioni alla documentazione progettuale.
+
+   Con nota n. 5187 del 18.04.2025  il Comitato Speciale ha trasmesso l’elenco delle integrazioni
+    richieste al fine di poter effettuare le valutazioni necessarie per la predisposizione del parere del
+   Comitato speciale, nell’ambito del procedimento di cui all’articolo 44 del D.L. 77/2021 convertito,
+   con modificazioni, con legge n. 108/2021.
+
+    In particolare,  il presente documento risponde alla richiesta relativa alla Analisi Costi Benefici
+   facente parte del Progetto di Fattibilità Tecnico Economica del lotto 4 dell’elettrificazione, che di
+   seguito si riporta:
+
+    “Analisi Costi Benefici:  Il Progetto di Fattibilità Tecnica ed Economica (PFTE) di cui trattasi è
+   inerente al Lotto 4 “Catanzaro Lido - Roccella Jonica”, la cui realizzazione avrà inizio a fine 2026 e
+    si concluderà nel 2029.
+
+    Tuttavia, l’ACB di cui all’Allegato B è stata sviluppata considerando in ottica di global project  i
+    progetti di investimento lotto 4 e 5 pari a 368,25 milioni di euro a valori finanziari, il cui esercizio è
+    previsto nel 2033.
+
+    Si prega pertanto di fornire un’ACB del Lotto 4 o elementi utili alla valutazione del presente PFTE.”
+
+    In  altri termini,   il  rilievo trova motivazione nella impostazione dell’Analisi Costi Benefici che
+   considera l’intero completamento dell’elettrificazione (Global Project) e ha per oggetto sia il lotto 4
+    (tratta Catanzaro Lido – Roccella Jonica), sia il lotto 5 (tratta Roccella Jonica-Melito Porto Salvo).
+
+   Nei tavoli tecnici che  il Comitato Speciale ha avviato nei giorni immediatamente successivi alla
+   presentazione del PFTE intervenuta in data 11/04/2025, RFI ha proposto di integrare la valutazione
+   economico-sociale con la presente Analisi delle Opzioni Reali.
+
+    Si ritiene,  infatti, che questo strumento di valutazione sia  il più appropriato per integrare la
+   valutazione  economico-sociale  del  solo  lotto  4, con  le  opportunità che  la  prosecuzione
+    dell’elettrificazione offre in prospettiva.
+
+=== PAGINA 7 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       7 di 42
+
+
+    2   IL CONTESTO NAZIONALE
+
+   Oggi la rete RFI è elettrificata per il 73%, per oltre 12.200 km di linee su complessivi 16.800 km.
+
+    In un benchmark a livello europeo con  i gestori di infrastrutture ferroviarie nazionali più vicini alle
+   dimensioni italiane, la rete ferroviaria gestita da RFI è tra le più virtuose in termini di quota di rete
+    elettrificata: 64% della Spagna; 58% della Francia; 53% della Germania.
+
+   Siamo  arrivati a questo ottimo risultato con l’impegno delle generazioni passate che hanno
+    valorizzato   il vantaggio tecnico che una  rete  elettrificata ha nei  confronti  di una  rete ad
+   alimentazione diesel. Infatti, prendendo a riferimento  il periodo dal 2005 al 2020, ci sono stati
+    interventi di elettrificazione di modesto sviluppo: dobbiamo risalire all’anno 2004 per superare i 100
+  km di nuove elettrificazioni e al 2000 per avere un valore di 210 km.
+
+   Nel Piano Industriale di RFI 2025-2034 sono previsti molti interventi di elettrificazione anche grazie
+    alla spinta del PNRR: circa 1.750 km, di cui oltre 800 km entro il 2026. A queste elettrificazioni di
+    linee ferroviarie già esistenti, si aggiunge la costruzione di nuove linee ferroviarie già elettrificate
+   per circa 800 km.
+
+
+
+
+
+                       Figura 2 – Piano Industriale RFI: interventi di elettrificazione
+
+
+
+   Secondo lo scenario di evoluzione della infrastruttura ferroviaria descritto, si può prevedere nel
+   2035 un tasso di elettrificazione della rete nazionale pari all’83%.
+
+      Il programma di elettrificazione contribuirà a uniformare le caratteristiche prestazionali della rete
+    ferroviaria in termini di sistemi di trazione consentendo l’utilizzo dei nuovi treni elettrici, oltre che a
+   creare le condizioni per un miglioramento delle relazioni trasportistiche e soprattutto a portare a una
+    riduzione dell’inquinamento ambientale e delle emissioni di Greenhouse Gases del settore trasporti.
+
+=== PAGINA 8 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       8 di 42
+
+
+    In questo contesto caratterizzato da una rinnovata attenzione alle opportunità di efficientamento
+   economico ed ambientale del trasporto ferroviario si inserisce l’iniziativa della Regione Calabria di
+    elettrificare l’intera rete, recepita nei documenti programmatici, negli Accordi Quadro1 con RFI e
+    nelle politiche di rinnovo del materiale rotabile.
+
+
+
+
+
+    1 L’Accordo Quadro è lo strumento previsto dal Decreto Legislativo 112/2015 attraverso il quale i richiedenti
+      le tracce orarie possono concordare con RFI l’utilizzo della capacità di trasporto dell’infrastruttura per un
+     periodo superiore a quello di un orario di servizio. Nell’impianto normativo nazionale l’Accordo Quadro, oltre
+    a essere uno strumento di coordinamento e pianificazione per la gestione di richieste pluriennali di capacità,
+    assume un ruolo indispensabile per attuare le funzioni di programmazione e amministrazione dei servizi di
+      trasporto di interesse locale e regionale, proprie delle Regioni, ai sensi del Decreto Legislativo 422/97.
+
+=== PAGINA 9 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       9 di 42
+
+
+    3  LA RETE ED I SERVIZI DELLA REGIONE CALABRIA
+
+   La Regione Calabria si estende per 15.082 km² e conta 1,9 milioni di abitanti. Il territorio è suddiviso
+    in 405 comuni distribuiti in 5 enti di area vasta di cui 4 province e una città metropolitana, quella di
+   Reggio Calabria.
+
+   La Regione si posiziona al 5° posto per numero di enti locali, al 10° posto per superficie e
+   popolazione e al 13° posto in Italia per densità abitativa.
+
+   La presenza della rete ferroviaria gestita da RFI vede 852 km di linee in esercizio, di cui  il 57%
+    elettrificato. Come si può rilevare, si tratta di un valore sensibilmente inferiore alla media nazionale.
+
+
+
+
+
+              Tabella 1 – Infrastruttura Ferroviaria Nazionale: presenza nella Regione Calabria
+
+    Inoltre, la rete ferroviaria calabra in gestione a RFI si caratterizza per la presenza di 95 località in
+    cui è attivo il servizio passeggeri.
+
+   Per una prima analisi della presenza della Infrastruttura Ferroviaria Nazionale nella Regione
+    Calabria, si riporta di seguito la ripartizione per regione dello sviluppo chilometrico delle linee e,
+   considerando l’articolazione in singolo e doppio, dei binari:
+
+=== PAGINA 10 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       10 di 42
+
+
+
+
+
+                         Grafico 1 – Rete gestita da RFI: distribuzione per Regione
+
+   La Calabria si posiziona in un settore mediano del ranking con uno sviluppo chilometrico delle linee
+    ferroviarie gestite da RFI ricadenti nella regione simile a quello della Regione Puglia, ma con un
+   minore sviluppo del doppio binario.
+
+   Se si rapporta la dotazione infrastrutturale alla popolazione regionale, si conferma che la Regione
+   Calabria si pone in una posizione media della graduatoria.
+
+=== PAGINA 11 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       11 di 42
+
+
+
+
+
+            Grafico 2 – Rete gestita da RFI: dotazione infrastrutturale (km di binario) per abitante
+
+   Le due rappresentazioni sulla dotazione infrastrutturale della Regione  in termini  di sistema
+    ferroviario sono funzionali alle considerazioni nel seguito rappresentate sul volume complessivo
+    dello sviluppo dei servizi per la mobilità a carattere regionale.
+
+
+   Sotto  il profilo del livello di elettrificazione, si rappresenta che sono al momento elettrificate la
+   dorsale tirrenica Praja-Reggio C. ed  il suo prolungamento fino a Melito Porto Salvo, quest’ultimo
+    tratto è interessato da un significativo traffico a carattere metropolitano (mediamente 22 treni/giorno
+    sulla relazione Villa S.Giovanni-Reggio C.-Melito Porto Salvo), a cui si aggiunge la trasversale alta
+   Paola-Cosenza-Sibari.
+
+=== PAGINA 12 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       12 di 42
+
+
+
+
+
+                        Figura 3 – Rete Calabra attuale: linee elettrificate e diesel
+
+
+
+    Risulta evidente  il condizionamento che la presenza di un doppio sistema di trazione determina
+    nello sviluppo dei servizi ferroviari e nella struttura delle relazioni del servizio regionale, per la citata
+   necessità dei viaggiatori di dover effettuare  il cambio del convoglio nel caso di spostamenti che
+   interessano linee elettrificate e non elettrificate. Si tratta di limitazioni che non sempre trovano una
+    risposta soddisfacente nella organizzazione degli orari dei diversi servizi in quanto non è sempre
+    possibile assicurare una coincidenza efficiente nelle località di discontinuità del sistema di trazione.
+
+    Al momento  la  struttura  dei  servizi passeggeri vede una produzione  di  circa 6,6 mln  di
+   treni.km/anno, che si traducono in circa 195 treni/giorno.
+
+=== PAGINA 13 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       13 di 42
+
+
+
+
+
+                             Figura 4 – Regione Calabra: struttura dei servizi
+
+
+
+      Il modello d’offerta passeggeri è così articolato:
+
+   La direttrice Ionica è caratterizzata dai seguenti servizi extraurbani:
+       •   Sibari - Catanzaro (17 collegamenti/giorno);
+       •  Catanzaro - Reggio Calabria (15 collegamenti/giorno);
+       •  Roccella Jonica - Reggio Calabria (10 collegamenti/giorno);
+
+   con integrazione di frequenza nella tratta Roccella Jonica  - Reggio Calabria, interscambio a
+   Catanzaro con  i servizi per Reggio Calabria e Lamezia Terme e a Reggio Calabria con  i servizi
+    della direttrice tirrenica.
+
+   La direttrice Tirrenica presenta i seguenti servizi extraurbani:
+       •  Napoli - Paola /Cosenza (9 collegamenti/giorno);
+
+=== PAGINA 14 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       14 di 42
+
+
+       •  Cosenza - Reggio Calabria (60’);
+       •   Sapri - Paola / Cosenza (16 collegamenti/giorno);
+       •  Lamezia Terme – Reggio Calabria via Tropea (16 collegamenti/giorno);
+   e Servizi suburbani:
+       •  Lamezia T./ Reggio C. - Melito P.S. (60’);
+   con integrazione di frequenza a Rosarno tra i servizi Lamezia T. – Reggio Calabria (via Tropea), i
+    regionali veloci Cosenza-Reggio C., interscambio a Lamezia con i servizi Catanzaro Lido-Lamezia
+   ed i servizi Lamezia–Reggio via Tropea.
+
+      Il collegamento diretto tra le due direttrici è assicurato da un collegamento extraurbano (60’) tra
+   Lamezia e Catanzaro.
+
+   Nella tabella che segue le relazioni del trasporto pubblico a maggiore frequenza:
+
+
+
+
+
+                                 Tabella 2 –Principali relazioni viaggiatori
+
+   Se ci riferiamo ai soli servizi ferroviari del trasporto locale, il confronto tra le regioni italiane in termini
+    di volume di treni.km/annui sulla rete RFI, mostra l’estrema variabilità tra le regioni.
+
+=== PAGINA 15 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       15 di 42
+
+
+                       Milioni di Treni.km del trasporto ferroviario regionale
+
+
+
+
+
+            Grafico 3 – Volume dei servizi TPL per regione (fonte Piano Commerciale RFI 2024).
+
+    Si tratta di servizi la cui pianificazione è di competenza delle regioni che destinano in modalità
+   diversa una quota dei loro bilanci al settore della mobilità secondo le proprie scelte politiche; quota
+   che si somma ai trasferimenti dallo Stato.
+
+
+   Legambiente nel Rapporto Pendolaria 2024 ha analizzato  i trasferimenti dallo Stato alle Regioni
+   per il servizio ferroviario che hanno “visto una stabilizzazione e una costanza di finanziamenti”.
+
+=== PAGINA 16 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       16 di 42
+
+
+
+
+
+           Grafico 4 – Evoluzione dei trasferimenti da Stato alle Regioni per il trasporto ferroviario
+
+   Le Regioni possono quindi individuare risorse nel proprio bilancio da aggiungere a quelle statali
+   per potenziare  il servizio (ossia più corse) e per  il materiale rotabile (dunque treni nuovi e/o
+    riqualificati). Secondo  il rapporto Pendolaria nel 2022, gli stanziamenti sono stati mediamente
+    dell’ordine dello 0,68% dei bilanci regionali, in miglioramento rispetto allo 0,57% del 2021 e dello
+   0,34% registrato nel 2020, ma con valori molto variabili (max=3,11%; min=0%).
+
+
+   Ancora più rappresentativo delle diverse politiche dei trasporti attuate dalle Regioni è l’indicatore
+   che misura l’utilizzazione della rete ferroviaria da parte dei servizi a carattere regionale.
+
+=== PAGINA 17 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       17 di 42
+
+
+
+
+
+                     Grafico 5 – Grado di utilizzo della rete (Piano Commerciale 2024).
+
+   Che la rete calabra non presenti livelli critici in termini di capacità di trasporto è altresì evidente nel
+    report pubblico del Prospetto Informativo della Rete, che riporta il grado di saturazione sulla rete.
+   Nel grafico che segue la situazione della rete meridionale nella fascia di punta delle ore 8 di un
+   giorno medio lavorativo:
+
+
+
+
+
+                Figura 5 – Grado di saturazione della rete (Prospetto Informativo della Rete)
+
+=== PAGINA 18 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       18 di 42
+
+
+   Dai dati sopra descritti sulla presenza di infrastrutture ferroviarie nella Regione e sul volume dei
+    servizi di trasporto su di esse insistenti, si può concludere che esistono ampi margini di incremento
+    dei programmi di offerta di trasporto ferroviario.
+
+  Ne consegue che le valutazioni sugli investimenti di elettrificazione, oggetto della originaria
+   Analisi Costi Benefici dei lotti 4 e 5 (Global Project), nonché del presente documento, sono
+   improntate ad un approccio prudenziale, in quanto, ancorché possibili in relazione alla dotazione
+    ferroviaria, non sono stati previsti incrementi dell’offerta di trasporto che avrebbero indubbiamente
+    migliorato gli indicatori di redditività economico-sociale in ragione del prevedibile aumento della
+   utenza ferroviaria, caratterizzata da una maggiore economicità rispetto alla mobilità privata e da
+   minori costi esterni rispetto alla mobilità stradale.
+
+    Si evidenzia altresì che negli anni  il traffico ferroviario che ha impegnato la linea jonica sud si
+   presenta abbastanza costante, a riprova che le ipotesi sviluppate nel presente documento si
+   fondano su tendenze ampiamente consolidate.
+
+
+
+
+
+                      Grafico 6 – Andamento volume di offerta di trasporto ferroviaria
+
+=== PAGINA 19 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       19 di 42
+
+
+    4   IL PROGRAMMA DI ELETTRIFICAZIONE DELLA RETE CALABRA
+
+      Il programma per la completa elettrificazione della rete calabra ha inizio con il Contratto Istituzionale
+    di Sviluppo sottoscritto nel dicembre 2012.
+
+      Il Contratto Istituzionale di Sviluppo (CIS) è uno strumento di programmazione negoziata, introdotto
+    dalla Delibera CIPE n. 1 dell’11 gennaio 2011, art. 5 “Attuazione rafforzata: il Contratto Istituzionale
+    di Sviluppo” e, successivamente, regolamentato a livello legislativo dal Decreto Legislativo n. 88
+    del 31 maggio 2011, art. 6. Secondo questo quadro normativo è previsto che  il Ministro delegato
+    stipuli, d'intesa con  il Ministro dell'Economia e delle Finanze e con  gli  altri eventuali Ministri
+    interessati, nonché con le Regioni e le Amministrazioni competenti, un “contratto istituzionale di
+    sviluppo” per l’attuazione della programmazione del Fondo Sviluppo e Coesione (FSC, già Fondo
+   per le Aree Sottoutilizzate), allo scopo di imprimere un’accelerazione ai processi di realizzazione di
+   grandi infrastrutture di rilievo strategico nazionale, anche in concorso con altre fonti finanziarie.
+
+   Sono stati stipulati n.3 Contratti istituzionali di sviluppo per le direttrici ferroviarie, previsti dalla
+   Delibera CIPE n. 62 del 3 agosto 2011:
+
+    1. Direttrice ferroviaria Napoli-Bari-Lecce-Taranto (sottoscritto in data 2 agosto 2012);
+
+    2. Direttrice ferroviaria Salerno-Reggio Calabria (sottoscritto in data 18 dicembre 2012);
+
+    3. Direttrice ferroviaria Messina-Catania-Palermo (sottoscritto in data 28 febbraio 2013).
+
+    All’atto della sottoscrizione, soltanto  il CIS Salerno-Reggio Calabria disponeva di una copertura
+    finanziaria piena.
+
+    Gli interventi previsti nel CIS Salerno-Reggio Calabria, sia di tipo infrastrutturale che tecnologico,
+   perseguono l’obiettivo di migliorare la circolazione ferroviaria mediante la soppressione di alcuni
+   passaggi a livello, la velocizzazione e la elettrificazione di alcune tratte e l’ottimizzazione di alcuni
+    impianti. Obiettivo principale del progetto sottostante il CIS è favorire una mobilità più efficace ed
+    efficiente di passeggeri e merci.
+
+   Con  il Protocollo di intesa sottoscritto in data 18 ottobre 2016 tra Regione Calabria e RFI è
+   proseguito il processo finalizzato alla velocizzazione ed elettrificazione della rete regionale. L’intesa
+   comprendeva i seguenti interventi: velocizzazione della linea Lamezia T. C.le - Catanzaro e la sua
+    elettrificazione e la elettrificazione Catanzaro Lido – Sibari; entrambi gli interventi erano finanziati
+   prevalentemente da risorse FSC e POR.
+
+  A prescindere dal programma di elettrificazione, l’attenzione della Regione per la linea Jonica è
+   confermato dal Protocollo di Intesa tra Ministero delle Infrastrutture e dei Trasporti, Regione
+   Calabria e Rete Ferroviaria Italiana sottoscritto il 17 maggio 2017 che prevedeva un investimento
+   complessivo sulla direttrice di 477 M€.
+
+   La volontà di procedere con  il programma di elettrificazione da parte della Regione trova la sua
+    ufficializzazione nell’Accordo Quadro con RFI del 2018 ed ancora in vigore.
+
+    Nell’Allegato D dell’Accordo Quadro, finalizzato a definire in un orizzonte di medio-lungo periodo
+    l’evoluzione dei servizi richiesti dalla Regione e quindi gli obiettivi di potenziamento infrastrutturale
+   che ne conseguono (la cui attuazione è competenza di RFI), è previsto:
+
+=== PAGINA 20 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       20 di 42
+
+
+
+
+
+                            Tabella 3 – Allegato D dell’Accordo Quadro vigente
+
+   Nell’Accordo Quadro si prevede l’adeguamento della struttura dei servizi in relazione alle possibilità
+    offerte degli interventi di elettrificazione della linea Jonica e linea Lamezia Terme Centrale –
+   Catanzaro Lido.
+
+    Visto  il decreto-legge n.32 del 18 aprile 2019, convertito con modificazioni nella L. n. 55 del 14
+   giugno 2019 e, in particolare, l’art.4 comma 1 come sostituito dal decreto-legge n.76 del 16 luglio
+   2020,  convertito  con  modificazioni  dalla  L.  120  dell’11  settembre  2020,  che  prevede
+    l’individuazione, mediante  decreti  del Presidente  del Consiglio  dei  Ministri,  degli  interventi
+    infrastrutturali caratterizzati da un elevato grado di complessità progettuale, da una particolare
+    difficoltà esecutiva o attuativa, da complessità delle procedure tecnico-amministrative ovvero che
+   comportano un rilevante impatto sul tessuto socio-economico a livello nazionale, regionale o locale
+   e la contestuale nomina di Commissari straordinari per la realizzazione dei medesimi interventi, con
+  DPCM del 5 agosto 2021 è stato nominato Commissario straordinario per  la realizzazione
+    dell’intervento Elettrificazione collegamento Lamezia - Catanzaro - dorsale Ionica (ID 975) l’Ing.
+   Roberto Pagone.
+
+      Il 12 ottobre 2022, è stato approvato dalla Commissione Europea con Decisione C (2022) 8027, il
+   Programma Regionale Calabria FESR-FSE+ 2021-2027. La Strategia del Programma Regionale
+   poggia sui cinque Obiettivi di Policy del quadro regolamentare Europeo, a sua volta declinati in
+    Priorità.
+
+    L’Obiettivo di Policy n.3 – “Un’Europa più connessa” intende sostenere e promuovere il trasporto a
+    livello locale e regionale al fine di colmare  il gap infrastrutturale di cui è caratterizzato  il contesto
+   calabrese, e che si ripercuote sulla competitività del sistema territoriale regionale. Le azioni previste
+    in questa direttrice strategica sono finalizzate ad incrementare la percentuale di rete elettrificata per
+       il trasporto regionale, la sicurezza e l’affidabilità delle connessioni, attraverso la definizione di
+    interventi di rafforzamento dei servizi di trasporto ferroviario regionale, di miglioramento delle
+    strutture portuali strategiche e del sistema di viabilità secondaria. Rendere la Calabria una regione
+    più connessa può generare un effetto moltiplicatore per lo sviluppo economico, sociale e culturale
+    in quanto contribuirebbe alla valorizzazione, non solo del territorio regionale, ma anche del capitale
+   umano, poiché messo in condizione di sfruttare tutte le opportunità offerte. A tale Obiettivo di Policy,
+
+=== PAGINA 21 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       21 di 42
+
+
+   coniugato in una Priorità, sono state assegnate risorse per un importo pari a circa 413,2 milioni di
+   euro.
+
+      Il Piano Regionale Calabria 2021-2027 prevede che l’Obiettivo di Policy 3 – Priorità 3 venga
+    declinato attraverso i seguenti Obiettivi Specifici e Azioni, tra cui si ripartiscono le risorse.
+
+    L’Obiettivo Specifico 2 – è destinato a: “Sviluppare e rafforzare una mobilità locale, regionale e
+   nazionale, intelligente, intermodale, resiliente ai cambiamenti climatici e sostenibile, migliorando
+   l'accesso alla rete TEN-T e la mobilità transfrontaliera”.  L’Obiettivo Specifico 2 della Priorità 3
+   dispone di una dotazione finanziaria pari a oltre 413 milioni di euro.
+
+    Nell’ambito della Priorità 3 si colloca la seguente Azione:
+
+
+
+
+
+                         Tabella 4 – Piano Regionale Calabria FESR-FSE 2021-2027
+
+  È in corso di finalizzazione la Convenzione che assegna a RFI la quota dei finanziamenti necessaria
+   per la realizzazione del Lotto 4 dell’elettrificazione tra Catanzaro L. e Roccella J. e per la
+   progettazione del Lotto 5 dell’elettrificazione tra Roccella J.e Melito P.S.
+
+   Sotto il profilo progettuale e attuativo il programma di elettrificazione si articola in n.5 lotti. Già sono
+    in corso i lavori per i primi 3 lotti del programma di elettrificazione.
+
+   Di seguito lo stato di avanzamento complessivo del programma.
+
+=== PAGINA 22 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       22 di 42
+
+
+
+
+
+                            Figura 6 – Lotti del programma di elettrificazione
+
+   Qualora, dopo l’attuazione del lotto 4 dell’elettrificazione (tratta Catanzaro L.-Roccella Jonica),  il
+   programma di elettrificazione si arrestasse si prospetterebbe una configurazione infrastrutturale
+   estremamente disomogenea, in cui solo il tratto tra Roccella Jonica e Melito Porto Salvo resterebbe
+   a trazione diesel in tutto l’ambito regionale e nel contesto delle linee meridionali a maggiore
+    rilevanza trasportistica.
+
+
+
+
+
+            Figura 7 – Scenario infrastrutturale a completamento della elettrificazione del lotto 4
+
+=== PAGINA 23 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       23 di 42
+
+
+    In questa sede si vuole quindi evidenziare la scarsa probabilità che la Regione, la quale ha avviato
+   da tempo  il programma di elettrificazione dell’intera rete ferroviaria regionale, che ha assunto
+   impegni nell’Accordo Quadro con RFI in merito alla configurazione dei servizi sulla direttrice jonica
+   che prevedono l’utilizzo di materiale rotabile elettrico e che sta sostenendo con propri finanziamenti
+     gli investimenti per la prosecuzione del programma, assuma la decisione di interrompere il progress
+    attuativo proprio in relazione all’ultimo tratto tra Roccella Jonica e Melito Porto Salvo.
+
+    Si sottolinea che  il programma per la completa elettrificazione della rete regionale riguarda circa
+   361 km circa, mentre il lotto 5 (tratto Roccella Jonica-Melito Porto Salvo) si sviluppa su circa 80 km:
+   una quota del 22% in termini chilometrici.
+
+  A margine si rappresenta che, in assenza della elettrificazione della tratta Roccella Jonica-Melito
+   Porto Salvo, è presumibile prevedere che i collegamenti diretti tra Catanzaro e Reggio Calabria C.le
+    si debbano svolgere sul percorso alternativo Catanzaro-Lamezia T.-Reggio Calabria C.le, che
+    risulterebbe più breve ed interamente elettrificato.
+
+
+
+
+
+     Figura 8 – Itinerari alternativi tra Catanzaro Lido e Reggio Calabria C.le senza e con elettrificazione
+
+=== PAGINA 24 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       24 di 42
+
+
+    5  GLOBAL PROJECT: METODO E LIMITI
+
+   Nel confermare la necessità di questa integrazione alla Analisi Costi Benefici già pubblicata e
+    relativa al cosiddetto Global Project dato dalla somma degli investimenti per l’elettrificazione del
+    lotto 4 (tratta Catanzaro L.-Roccella Jonica) e del lotto 5 (tratta Roccella Jonica-Melito Porto Salvo),
+   appare comunque opportuno chiarire le motivazioni che hanno condotto a considerare questo
+   perimetro esteso nella valutazione economico-finanziaria.
+
+   La “Guida all'Analisi Costi Benefici dei progetti d'investimento” della Commissione Europea  -
+   Direzione generale della Politica regionale e urbana – del 2014, un progetto viene definito come
+   “una serie di opere, attività o servizi intesi a realizzare un'azione indivisibile di precisa natura
+   economica o tecnica, che ha finalità chiaramente identificate” (art. 100 del Regolamento (UE) n.
+   1303/2013). Queste opere, attività o servizi sono strumentali al raggiungimento degli obiettivi
+    individuati.
+
+   Per una corretta valutazione dell’investimento la Commissione richiama la necessità di considerare
+    l'intero progetto inteso quale unità d'analisi autosufficiente, senza escludere nessuna caratteristica
+   o componente essenziale dall'ambito di valutazione evitando il rischio di un sottodimensionamento.
+    In generale, un progetto può essere  definito come autosufficiente se è possibile produrre
+    un'infrastruttura funzionalmente completa e rendere attivo un servizio senza dipendere da altri nuovi
+    investimenti.
+
+    Allo stesso tempo si deve evitare di inserire nel progetto componenti non essenziali per la fornitura
+    del servizio oggetto d'esame, evitando il rischio di sovradimensionamento.
+
+     L’applicazione di questo principio implica che:
+
+      • le partizioni del progetto derivanti da una sua suddivisione in più parti per motivi finanziari,
+       amministrativi o ingegneristici non costituiscono un oggetto appropriato della valutazione;
+
+      • componenti interconnesse ma relativamente autonome, i cui costi e benefici sono in gran parte
+       indipendenti, devono essere valutati in modo indipendente;
+
+      • gli investimenti pianificati per il futuro vanno considerati nell'ACB quando questi sono essenziali
+      per garantire la funzionalità dell'investimento originario, prescindendo dalla propria situazione
+       finanziaria.
+
+   Le motivazioni sottese alla scelta di un perimetro così ampio della valutazione economico-sociale
+   sono sostanzialmente riconducibili alle seguenti due considerazioni che attengono agli ambiti
+    strategico-finanziario e tecnico-funzionali:
+
+    a)  Le intese tra RFI e la Regione Calabria circa  il programma di elettrificazione della rete che,
+      come già ricordato, risalgono al 2012. Già in questa fase iniziale, l’obiettivo e l’oggetto degli
+        accordi era la completa elettrificazione delle linee regionali in gestione a RFI. In questi accordi
+      è stata definita l’articolazione in n.5 lotti dell’intero programma.
+        Si evidenzia che sono in corso  i lavori per  i primi 3 lotti del programma di elettrificazione. La
+       Regione ha finanziato con proprie risorse l’elettrificazione per  il lotto 4 e, una volta avviati  i
+          relativi lavori,  si è impegnata a finanziare la progettazione del  lotto 5, che completa   il
+       programma.
+
+=== PAGINA 25 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       25 di 42
+
+
+    b)  La struttura attuale e futura dei servizi ferroviari che si svolgono sulla sezione sud della dorsale
+        jonica da Catanzaro a Reggio C. considerano  il prevalere delle relazioni che si svolgono su
+         tutta la tratta, in quanto la località di Roccella Jonica non ha le potenzialità per rivestire il ruolo
+         di hub, diversamente dai due capoluoghi di regione di Catanzaro e Reggio Calabria. Ne
+      consegue che immaginare uno scenario in cui alla elettrificazione del lotto 4 non segua
+         l’elettrificazione del lotto 5 per un periodo di tempo di decenni (orizzonte temporale usualmente
+        adottato nelle Analisi Costi Benefici), comporterebbe la necessità strutturale per  i viaggiatori
+       che percorrono l’intera relazione Catanzaro-Reggio C. di cambiare convoglio.
+
+
+
+
+
+                     Figura 9 – Principali servizi sulla sezione sud della dorsale jonica
+
+    Nondimeno si riconoscono le ragioni alla base della richiesta del Comitato Speciale del Consiglio
+     Superiore dei Lavori Pubblici che è chiamato ad esprimersi sulla sussistenza di elementi di
+    convenienza economico-sociale nell’attuazione del solo lotto 4 (tratta Catanzaro Lido – Roccella
+     Jonica). Pertanto, nel seguito del documento vengono affrontati gli aspetti tecnico-economici
+     oggetto di quantificazione economica nella Analisi delle Opzioni Reali ed altri ambiti che sono
+     rappresentati in termini soltanto qualitativi.
+
+=== PAGINA 26 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       26 di 42
+
+
+    6  ANALISI COSTI BENEFICI DEL SOLO LOTTO 4 (tratta Catanzaro L.-Roccella
+        Jonica)
+
+    In questa sezione si analizza l’ipotesi che  il programma di elettrificazione della rete calabra si
+   dovesse arrestare per motivi al momento non prevedibili, per cui si limita l’Analisi Costi Benefici al
+   solo lotto 4 (tratta Catanzaro L.-Roccella Jonica).
+
+   Nella ACB originaria, riferita la Global Project, sono stati valutati gli effetti economici derivanti dal
+   cambiamento della tecnologia di propulsione del materiale rotabile, da trazione termica a trazione
+    elettrica. In via prudenziale, tali effetti sono definiti e misurati considerando il solo impatto sul traffico
+    ferroviario attuale del segmento regionale e quindi senza tener conto dei benefici derivanti da una
+   potenziale diversione modale  della domanda  di  trasporto verso  la modalità  ferroviaria ed
+   escludendo il traffico ferroviario attuale del segmento lunga percorrenza ed altro. Nello specifico la
+   valutazione ha considerato  il cambio di alimentazione di un volume di servizi relativi al trasporto
+   regionale pari a circa 1,089 milioni di treni.km/anno.
+
+  Come in precedenza evidenziato, non si è ipotizzata una crescita dei servizi ferroviari, seppure
+    l’infrastruttura ferroviaria attuale presenti dei margini di implementazione significativi.
+
+    L’Analisi Costi Benefici, impostata in questi termini, ha quindi individuato le seguenti tipologie di
+    benefici:
+  ➢  Risparmi nei costi operativi per l’erogazione dei servizi di trasporto ferroviario del
+      segmento regionale connessi al cambiamento tecnologico della propulsione del materiale
+         rotabile, da trazione termica a trazione elettrica, quest’ultima meno onerosa;
+  ➢  Risparmi di costi “esterni” ambientali associati all’utilizzo del nuovo materiale rotabile a
+        trazione elettrica, meno inquinante rispetto ai treni a trazione termica.
+
+
+    Si ritiene utile ricordare i risultati dell’Analisi Costi Benefici riferita all’intero Global Project (Lotto 4 e
+    lotto 5). A fronte di un investimento di 368,25 mln, gli indicatori di convenienza economico-sociale
+   sono risultati i seguenti:
+
+     •    il Valore Attuale Netto Economico (VANE), ovvero la sommatoria dei saldi annuali tra costi e
+       benefici generati dall’investimento, scontati secondo il tasso predefinito (3%) è pari a circa 17,62
+       milioni di euro.
+
+     •    il Tasso Interno di Rendimento Economico (TIRE), ovvero il valore del tasso che applicato come
+      sconto ai saldi annuali costi-benefici rende il valore del VANE pari a zero, risulta: 3,39%.
+
+      •  il B/C Ratio, ossia il rapporto tra Benefici attualizzati e Costi attualizzati è pari a 1,08.
+
+    In coerenza con l’impostazione,  i parametri e le ipotesi assunte con la suddetta Analisi Costi
+    Benefici relativa al Global Project (lotto 4 e lotto 5), è stata effettuata la valutazione del solo lotto 4
+    relativo alla tratta Catanzaro L.-Roccella Jonica. Ovviamente, l’entità dell’investimento oggetto di
+   questa nuova valutazione è pari a 198,632 mln di € ed il volume dei servizi oggetto di conversione
+    dell’alimentazione è risultato essere pari a 0,367 mln di treni.km/anno.
+
+      I risultati di questa nuova valutazione sono significativamente influenzati dall’attuale struttura dei
+    servizi ferroviari per il TPL che vedono un numero maggiore di convogli sulla tratta Roccella Jonica-
+    Melito Porto Salvo (lotto 5 del programma di elettrificazione), rispetto alla tratta Catanzaro L.-
+   Roccella Jonica (lotto 4 del programma di elettrificazione).
+
+=== PAGINA 27 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       27 di 42
+
+
+                Relazione                               Numero treni TPL al
+                                                                 giorno medio feriale
+                Catanzaro L.-Roccella Jonica-Reggio Calabria             15
+                 Roccella Jonica-Reggio Calabria                       10
+
+
+                   Lotti elettrificazione - Tratte                 Numero treni TPL al
+                                                                 giorno medio feriale
+                  Lotto 4, tratta Catanzaro L.-Roccella Jonica               15
+                  Lotto 5, tratta Roccella Jonica-Melito P.S.                25
+
+
+
+               Tabelle 5 – Attuale volume dei servizi TPL sulle tratte oggetto di elettrificazione
+
+   Per maggiori dettagli si rimanda in proposito ai contenuti del paragrafo 3 – La Rete ed i servizi della
+   Regione Calabria.
+
+   La significativa entità dell’offerta di trasporto tra le due tratte (lotto 4 e lotto 5), non trova analoga
+   corrispondenza  nella  distribuzione  del  volume  medio  degli  utenti   saliti  e  discesi  dalle
+    stazioni/fermate ricadenti nei perimetri dei lotti.
+
+          Lotti elettrificazione - Tratte                           Saliti e discesi sulle stazioni/fermate
+                                                        (media anni 2022 e 2023)
+         Lotto 4, tratta Catanzaro L.-Roccella Jonica          334.000 pax/anno ~ 920 pax/giorno
+         Lotto 5, tratta Roccella Jonica-Melito P.S.           401.000 pax/anno = 1.110 pax/giorno
+
+                   Tabella 6 – Media saliti e discesi sulle tratte oggetto di elettrificazione
+
+  A riprova che la struttura dei servizi risponde a logiche di qualità dei servizi offerti in termini di
+   frequenza e non è dimensionata in termini di capacità di trasporto dei convogli.
+
+     Infatti, ad un volume di servizi (numero di treni TPL) che per il lotto 5 si incrementa del 67% rispetto
+    al lotto 4, corrisponde una affluenza degli utenti che cresce in misura del 20%.
+
+    Risulta pertanto evidente che l’attuale struttura dei servizi penalizza la valutazione dell’investimento
+    relativo alla elettrificazione del lotto 4 (tratta Catanzaro L.-Roccella Jonica) che è meno impegnato
+   da convogli ferroviari e che, considerando il solo cambio di trazione da diesel ad elettrico, produce
+   un volume di benefici di carattere economico ed ambientale inferiore a quello del lotto 5.
+
+    Si deve altresì sottolineare che questa ipotesi che considera, nei servizi oggetto di cambiamento di
+   alimentazione,  i soli convogli che percorrono  il lotto 4, impone la necessità di interrompere a
+   Roccella Jonica le relazioni Catanzaro L.-Roccella Jonica-Melito P.S.-Reggio Calabria, con evidenti
+    perdite di competitività del servizio.
+
+   Su queste basi, estremamente  riduttive,  l’intervento  relativo  alla  elettrificazione del  lotto 4,
+   quantunque  in grado di produrre benefici  in termini economici, non è  in grado di ripagare
+    l’investimento.
+
+=== PAGINA 28 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       28 di 42
+
+
+    Conservando gli stessi parametri tecnico-economici unitari utilizzati nella ACB del Global Project
+     (es. costi unitari di produzione del servizio ferroviario, emissioni unitarie di gas climalteranti ed
+     inquinanti sia per la trazione diesel che per quella elettrica, inquinamento acustico per treno.km,
+     ipotesi e struttura del calcolo del valore residuo, …), l’Analisi Costi Benefici produce  i seguenti
+      indicatori:
+
+     •    il Valore Attuale Netto Economico (VANE), ovvero la sommatoria dei saldi annuali tra costi e
+       benefici generati dall’investimento, scontati secondo il tasso predefinito (3%) è pari a circa -38,12
+       milioni di euro.
+
+     •    il Tasso Interno di Rendimento Economico (TIRE), ovvero il valore del tasso che applicato come
+      sconto ai saldi annuali costi-benefici rende il valore del VANE pari a zero, risulta: 1,37%.
+
+      •  il B/C Ratio, ossia il rapporto tra Benefici attualizzati e Costi attualizzati è pari a 0,67.
+
+    Preme ribadire che questa valutazione risulta condizionata sia dall’attuale struttura dell’offerta di
+     servizi ferroviari (più frequente sul lotto 5 rispetto al lotto 4), sia dall’assenza di evidenti sinergie
+    che si sarebbero sviluppate considerando l’attuazione dell’elettrificazione del lotto 5 seguire, in
+     tempi tecnici ragionevoli, l’attuazione della elettrificazione del lotto 4. In altri termini,  il rinviare
+     l’attuazione  dell’elettrificazione del  lotto 5 per orizzonti temporali dell’ordine dei  trent’anni,
+    determina “costi del non fare” valutabili nell’ordine di 55 mln di euro, ossia pari alla perdita di valore
+     attuale netto economico tra l’Analisi Costi Benefici riferita al Global Project (17 mln) e l’Analisi
+     Costi Benefici riferita al solo lotto 4 (-38 mln).
+
+=== PAGINA 29 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        29 di 42
+
+
+    7  Metodologia delle Opzioni Reali
+
+La teoria delle opzioni reali partendo dall’analisi costi e benefici tradizionale passa al VAN esteso
+(VANES). Il VANES può essere definito come:
+
+   VANES = Van + Valore opzioni create dal progetto - Valore opzioni distrutte dal progetto
+
+La logica delle opzioni reali è la stessa delle opzioni finanziarie, il progetto costituisce, quindi, un’opzione
+di tipo  "call", perché esso dà   il  diritto, a un prezzo d’esercizio prestabilito,  costituito dal costo
+d’investimento, di accedere ad un cespite "sottostante" (così come la "call" dà  il diritto di acquisire un
+titolo). Tale cespite è costituito, oltre che dal Van, dal valore totale netto risultante dalle altre opzioni
+create o distrutte dal progetto stesso. Il valore di un’opzione "call" alla sua scadenza T è indicato come:
+
+                             Max (0, S(T)-X(T))
+
+Dove S(T) è il valore del sottostante alla scadenza (ossia il titolo che l’opzione dà il diritto di acquistare)
+e X(T) il prezzo prefissato (il cosiddetto "strike") a cui la "call" dà il diritto di acquisire il titolo stesso.
+Sia  il valore atteso del Van, sia quello delle opzioni create o distrutte, non sono costanti, ma variano
+stocasticamente, ossia in base ad una distribuzione di probabilità, di periodo in periodo. Inoltre, anche
+alla data di scadenza,  il valore del Van del progetto sarà un valore atteso e non un Van definitivo e
+deterministico (lo stesso avviene peraltro con il titolo finanziario S cui sia stata esercitata la "call"). Se
+si ipotizza la possibile realizzazione del progetto in un qualunque momento prima della scadenza
+dell’opzione  si è davanti, analogamente a quanto accade nel mercato finanziario a un’"opzione
+americana", mentre si parla di "opzione europea" quando la decisione di esercitare l’opzione può essere
+presa solo alla scadenza della stessa.
+Se il progetto non crea e non distrugge altre opzioni se non quella del progetto stesso, quest’ultima, alla
+scadenza, ha un valore che è semplicemente pari a:
+
+                                       Call (T) = Max (0, (Van(T))
+
+In altri termini, se si dovesse vendere il diritto di intraprendere il progetto nel momento in cui tale diritto
+scade, per cui il compratore dovrebbe necessariamente intraprendere il progetto, tale diritto avrebbe un
+valore pari al valore atteso del Van a quella data o a zero, a seconda di quale dei due fosse, al momento
+dello scambio, il valore maggiore. Il valore dell’opzione alla scadenza è formato da due elementi: uno
+stocastico, costituito dal valore atteso dei benefici netti del progetto, uno deterministico, dato dal costo.
+Considerare il costo un dato deterministico può sembrare una forzatura, ma ipotizzando un costo fisso
+eventuali scostamenti dello stesso possono essere ricompresi nei benefici netti che sono la variabile
+fondamentale del Sottostante.
+Il valore dell’opzione oggi, d’altra parte, dipenderà non solo dal suo valore alla data di scadenza, ma
+anche da quello relativo a tutte le date intermedie. Se però si conosce quello alla scadenza, è evidente
+che si può scrivere  il valore dell’opzione per  il periodo immediatamente precedente a quello della
+scadenza come:
+
+=== PAGINA 30 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        30 di 42
+
+
+                    Call (T-1) = Max(0, (Van(T-1)) + Max(0, (Van(T)-Van(T-1))/(1+R)
+
+dove R è un appropriato tasso di attualizzazione. Procedendo a ritroso in questo modo, secondo un
+processo chiamato di "backward induction", si può ricavare il valore dell’opzione in ogni momento.
+In pratica, poiché non si conosce né  il valore dell’opzione alla sua scadenza, né quello alle date
+intermedie, uno dei modi in cui è possibile valutare un’opzione consiste nel calcolare, per ogni data, il
+valore di un portafoglio di titoli con le stesse caratteristiche, e quindi con lo stesso valore, del sottostante
+dell’opzione dei valori possibili, secondo un algoritmo conosciuto come "albero binomiale". Il più noto di
+tali algoritmi è dovuto a Cox e Rubinstein (1985); esso si basa sull’idea che ad ogni punto del tempo sia
+possibile definire due stati della natura, di cui uno favorevole e l’altro sfavorevole con determinate
+probabilità. Poiché  l’algoritmo binomiale genera una  distribuzione  di  probabilità che converge
+rapidamente a una distribuzione normale, in pratica è possibile partire dai parametri (media e varianza)
+di una distribuzione normale, per generare le probabilità di un albero binomiale (ossia le probabilità dello
+scenario favorevole e di quello sfavorevole in ogni punto del tempo considerato). I parametri sono:  il
+tasso  di  attualizzazione e una  misura  della  variabilità  (tipicamente  la  deviazione  standard
+dell’incremento percentuale del valore del Van atteso, correntemente indicata con il nome di volatilità),
+mentre le variabili sono costituite dal valore corrente del Van atteso, che, a sua volta si può scomporre
+in una parte stocastica (equivalente al sottostante) e in una deterministica (equivalente al prezzo di
+esercizio) pari all’investimento. Il valore della call progettuale in ogni periodo può essere quindi indicato
+come:
+
+
+                                      𝐶𝑎𝑙𝑙 (𝑡) = 𝐹(𝑉𝐴𝑁(𝑡), 𝜎, 𝑅)
+
+Dove 𝜎 indica la volatilità.
+Naturalmente, sia  il valore atteso del Van, sia la volatilità possono dipendere da un gran numero di
+variabili, e possono quindi scomporsi nei rispettivi valori attesi, nelle varianze e nelle covarianze di tali
+variabili.
+I principali punti di differenziazione tra VAN e VANES sono:
+            -   la distribuzione dei benefici netti attesi, poiché l’opzione assume valori sempre maggiori
+          man mano che il valore atteso del cash flow aumenta, mentre il suo valore non decresce
+                 oltre lo zero, nel caso di revisione verso  il basso dello stesso valore. Nel caso del Van
+               tradizionale la distribuzione è implicitamente simmetrica, si pone  il problema di trovare
+            un tasso di attualizzazione tale da tener conto del rischio, che si applichi a tutti gli scenari.
+                          Il modello che combina il Van con il valore di opzione (il Van esteso o Vanes), viceversa,
+             consente di trattare in maniera soddisfacente l'asimmetria della distribuzione.
+            -     Il Van e il Vanes differiscono in maniera sostanziale nel loro trattamento del tempo. Il Van
+            può essere considerato un caso estremo di VANES in cui le opzioni hanno scadenza
+             immediata. Ciò significa che  il Van non tiene conto della possibilità di differire alcune
+               decisioni cruciali, quali, in particolare, quella relativa all’espansione di capacità e quella
+                relativa all'utilizzazione della capacità creata con il progetto (le cosiddette opzioni create).
+
+=== PAGINA 31 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        31 di 42
+
+
+            -   Nella stima dei valori delle opzioni, è necessario confrontare  il valore dell’informazione
+               acquisita con  il passare del tempo, con  i redditi perduti a causa del differimento della
+              decisione (di espandere la capacità, o di espandere o contrarre l’esercizio).
+Nel caso del progetto Lotto 4-5 della linea Jonica le opportunità create dal progetto considerate sono:
+
+            -  Espansione, considera il valore dell’opportunità di realizzare il progetto di elettrificazione
+               del lotto 5 come completamento della linea Jonica e conseguentemente di monetizzare
+                 tutte  le esternalità che tale intervento implica.  Inoltre, la realizzazione del  lotto 5
+             permetterebbe di agevolare  il viaggio senza cambi di treno su tutta la tratta costiera
+              Jonica;
+            -   Sviluppo, rappresenta l’abilitazione, dovuta alla realizzazione del progetto, di integrare la
+                linea tirrenica con quella jonica. Da ciò, ne deriva, l’opportunità futura possibile per gli
+                utenti di continuare il loro viaggio senza soluzione di continuità tra le due coste, inoltre la
+               realizzazione del progetto permetterà anche ai soli utenti della linea Jonica di risparmiare
+            un fastidioso cambio treno necessario nel caso il progetto non si realizzi.
+
+In aggiunta alle opportunità create va considerata anche la possibilità di rinviare la realizzazione del
+progetto, che controbilancia  il valore positivo e nel caso di specie identifica la cosiddetta opzione
+distrutta.
+
+
+    8  OPZIONE DI ESPANSIONE (realizzazione del lotto 5 dopo il lotto 4)
+
+
+Come  descritto  in precedenza  l’Opzione  di espansione  considera  l’opportunità  abilitata  dalla
+realizzazione del lotto 4 di continuare l’investimento includendo anche  il lotto 5 e di conseguenza
+internalizzare i benefici che ne derivano.
+L'opzione di espansione, nell'ambito delle opzioni reali, è  il diritto (senza obbligo) di espandere un
+progetto o un investimento in futuro, in base a condizioni specifiche. È un'opportunità che consente di
+valutare se sia conveniente o meno ampliare un progetto in corso, o di intraprendere un nuovo
+investimento o un nuovo lotto funzionale, in base alle informazioni che si possono acquisire nel corso
+del tempo.
+In sostanza, l'opzione di espansione offre la flessibilità di "attendere" a valutare l'opportunità di un
+investimento, in base a come si sviluppa  il mercato e le condizioni del progetto. In questo modo,
+l'impresa può evitare di commettere errori di investimento, in quanto può decidere di esercitare l'opzione
+solo quando le condizioni sono favorevoli, oppure di rinunciare all'investimento se le prospettive non
+sono positive.
+
+I parametri di stima dell’opzione di Espansione sono:
+
+            -   Sottostante (Valore delle esternalità del lotto 5): 148,26 milioni di euro
+            -  Costo (Costi economici attualizzati del lotto 5): 92,52
+            -   Durata: 5 anni
+            -   Volatilità (dato di partenza su cui poi è effettuata una analisi di sensitività): 15%
+            -  Tasso di sconto: 3%
+            -   Valore di opzione: 69,08 milioni di euro.
+
+=== PAGINA 32 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        32 di 42
+
+
+Il valore di tale opzione è di 69,08 milioni di euro. Considerando l’incertezza tipica della stima di
+valori futuri è stata condotta una analisi di sensitività facendo variare la volatilità del sottostante e  i
+benefici economici. I risultati mostrano una variabilità che va da un minimo di 53,88 milioni di euro ad
+un massimo di 88,84 milioni di euro con un coefficiente di variabilità del 15%, mostrando quindi, una
+robustezza nei risultati ottenuti fatte salve le ipotesi di partenza. La tabella seguente mostra i risultati in
+dettaglio.
+
+                                                       Volatilità
+
+                     10%       15%      20%      25%       30%
+
+             -10%       53.88        54.71        56.59        59.21        62.28
+ Variazione              -5%       61.26        61.86        63.45        65.85        68.77
+   Benefici
+ economici      0        68.65        69.08        70.42        72.6         75.36
+            5%        76.05        76.35        77.47        79.44        82.05
+
+            10%       83.46        83.68        84.61        86.39        88.84
+
+
+                              Tabella 7 - Risultati dell’analisi delle opzioni reali
+
+
+
+     Nota: i parametri di sottostante e costo sono estratti da Analisi costi benefici Elettrificazione linea
+     Catanzaro Lido – Melito di Porto Salvo
+
+=== PAGINA 33 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        33 di 42
+
+
+    9  OPZIONE DI SVILUPPO (abilitazione all’integrazione della tratta jonica nella
+         rete regionale)
+
+
+L’opzione di sviluppo rappresenta l’abilitazione, dovuta alla realizzazione del progetto, di integrare la
+linea tirrenica con quella jonica. Da ciò, ne deriva, l’opportunità futura possibile per  gli utenti di
+continuare  il loro viaggio senza soluzione di continuità tra le due coste, inoltre la realizzazione del
+progetto permetterà anche ai soli utenti della linea Jonica di risparmiare un cambio treno necessario nel
+caso il progetto non si realizzi.
+
+
+L’opzione di sviluppo, come detto rappresenta l’abilitazione futura possibile per gli utenti di continuare
+il loro viaggio senza soluzione di continuità tra le due coste, inoltre la realizzazione del progetto
+permetterà anche ai  soli utenti della linea Jonica  di risparmiare un fastidioso cambio treno. Di
+conseguenza, il principale dato di ipotesi è il potenziale risparmio di tempo per gli utenti pari a 20 minuti.
+Questo risparmio di tempo è stato monetizzato per il 30% dei passeggeri della linea Jonica e per il 15%
+di quelli della linea Tirrenica e a scopo precauzionale non sono stati considerati aumenti nei passeggeri
+in futuro. In base a queste ipotesi e valorizzando economicamente il surplus del consumatore derivante
+dal risparmio di tempo il valore del Sottostante è pari a 35,20 milioni di euro, mentre il costo pari a 17,60
+milioni di euro. Considerando una volatilità del 20% e una durata di 5 anni ad un tasso del 3%, il valore
+dell’opzione è pari a 20,17 milioni di euro. L’analisi di sensitività, effettuata su volatilità e percentuale
+di passeggeri impattati dal risparmio di tempo, riporta un minimo pari a 6,68 milioni di euro e un massimo
+di 34,65 milioni di euro con un coefficiente di variabilità pari al 48%. Nel dettaglio la tabella seguente
+mostra i risultati:
+
+                                                         Volatilità
+
+                       10%      15%      20%      25%       30%
+
+           10% e 5%      6.68         6.68         6.72          6.8          6.93
+ Percentuale           20% e 10%     13.36        13.37       13.44        13.6         13.86
+ passeggeri
+   impattati   30% e 15%     20.05        20.07       20.17       20.41        20.79
+           40% e 20%     26.74        26.76       26.89       27.22        27.73
+
+           50% e 25%     33.42        33.44       33.61       34.02        34.65
+
+
+                              Tabella 8 - Risultati dell’analisi delle opzioni reali
+
+
+
+
+    10 OPZIONE DI ATTESA
+
+=== PAGINA 34 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       34 di 42
+
+
+     L'opzione di attesa, come elemento specifico delle opzioni reali, rappresenta il vantaggio di poter
+     posticipare la decisione di investimento per acquisire maggiori dettagli e valutare meglio la sua
+     convenienza. Ad esempio, un'azienda che sta valutando di investire in un nuovo progetto invece
+      di prendere subito una decisione, può utilizzare l'opzione di attesa per:
+
+     Raccogliere informazioni (Attendere per raccogliere ulteriori dati sul mercato, sui concorrenti, sulle
+     tecnologie disponibili, ecc.);
+
+     Valutazione delle condizioni (Analizzare meglio le condizioni economiche, le normative,  i rischi
+     potenziali e gli altri fattori rilevanti);
+
+     Rinuncia a informazioni già disponibili (Utilizzare  i dati già in possesso, ma valutare se sono
+      sufficienti o se sarebbe meglio aspettare nuove informazioni per una decisione più informata).
+
+     L'opzione  di attesa consente  di  sfruttare   il valore  dell'incertezza, ottenendo un vantaggio
+     strategico. Rallentando la decisione, si possono evitare investimenti sbagliati o sfruttare meglio le
+     opportunità che si presentano nel futuro.
+
+     In sintesi: L'opzione di attesa è una componente fondamentale delle opzioni reali, che permette
+      alle aziende di gestire l'incertezza e di sfruttare al meglio le opportunità di investimento.
+
+     L’opzione di attesa vale a dire la possibilità di rinviare la realizzazione del progetto per attendere
+     maggiori informazioni e ridurre la rischiosità dello stesso, è valorizzata pari a 39.72 milioni di euro.
+
+=== PAGINA 35 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       35 di 42
+
+
+    11 CONCLUSIONI QUANTITATIVE
+
+  Come già rappresentato, il valore aggiunto fornito dallo strumento dell’Analisi delle Opzioni Reali è
+    la valutazione quantitativa dei benefici socio-economici che la nuova configurazione infrastrutturale,
+   che si raggiungerà quando si completa la sequenza dei  lotti di elettrificazione dall’1 al 4 già
+    finanziata, rende possibili e che derivano dalla possibilità di esercitare l’opzione di estendere
+    l’elettrificazione anche al Lotto 5 (Roccella J. – Melito P.S.) e di esercitare l’opzione di sviluppare i
+    servizi regionali senza discontinuità dei sistemi di trazione. Queste ultime due tipologie di benefici,
+    valutati in termini differenziali, si riferiscono alle seguenti dimensioni di analisi: continuità di trazione
+    elettrica; riduzione dei tempi di viaggio e dei costi operativi del servizio; eliminazione dei rifornimenti
+    diesel e ottimizzazione dei turni del materiale rotabile; ulteriore taglio delle emissioni climalteranti e
+   miglioramento della qualità dell’aria nei centri costieri; maggiore attrattività per il traffico pendolare,
+    turistico e merci.
+
+    L’output dell’Analisi delle Opzioni Reali è la stima del valore incrementale e delle soglie di
+   convenienza per l’avvio del lotto 5, che si sommano ai risultati propri della Analisi Costi Benefici del
+   solo lotto 4.
+
+    Sulla base di quanto stimato in precedenza la valutazione complessiva produce il seguente valore
+    dell’investimento e delle relative opzioni:
+     Componente                                  Valore Attuale Netto Cumulato Attualizzato
+                                                     (espresso in termini economico-sociali)
+       (A) Analisi Costi Benefici Lotto 4, tratta
+      Catanzaro L.-Roccella Jonica                                                   - 38,12 mln €
+       (B) Opzione di espansione                                     69,08 mln €
+      (C ) Opzione di sviluppo                                       20,17 mln €
+      (D) Opzione di attesa                                         39,72 mln €
+       Totale (A+B+C-D)                                            11,41 mln €
+
+=== PAGINA 36 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        36 di 42
+
+
+    12 ASPETTI OGGETTO DI ANALISI QUALITATIVA
+
+12.1 Sicurezza stradale
+
+      Sulla base delle rilevazioni ISTAT si registra che l’anno 2023 è stato caratterizzato da una
+      stabilizzazione nella mobilità rispetto al 2022.
+
+     Sul fronte dell’incidentalità stradale si è registrato, a livello nazionale, un lieve miglioramento per
+            il numero delle vittime rispetto all’anno precedente (-3,8%), seppure si sia rilevato un aumento
+      degli incidenti (+0,4%) e dei feriti (+0,5%), ancorché in maniera contenuta.
+
+      In Calabria, nel 2023, si sono verificati 2.840 incidenti stradali, che hanno causato la morte di 109
+     persone e il ferimento di altre 4.385. Rispetto al 2022, in controtendenza rispetto a quanto accade
+     a livello nazionale, si riscontra una diminuzione poco significativa del numero degli incidenti (-
+     0,2%) e dei feriti (-1,9%), mentre si registra un significativo aumento del numero delle vittime
+     (+47,3%).
+
+           Regione Calabria: Incidenti Stradali, Morti, Feriti e Tasso di Mortalità per Provincia.
+
+
+
+
+
+                           Tabella 9 – Incidentalità stradale nella Regione Calabria
+
+         I Programmi d’azione europei per la sicurezza stradale, riferiti ai decenni 2001-2010 e 2011-2020,
+     impegnano i Paesi membri a conseguire il dimezzamento dei morti per incidente stradale.
+
+     Nel periodo 2001-2010 le vittime della strada si sono ridotte in Calabria del 20,2%, meno della
+     media nazionale pari al 42,0%.
+
+     Nel periodo 2010-2023 le vittime della strada si sono ridotte in Calabria del 21,0%, meno della
+     media nazionale pari a 26,1%.
+
+     Nel 2023 aumenta significativamente in Calabria, rispetto al 2010, l’incidenza degli utenti morti in
+      incidenti stradali, attestandosi su un valore superiore alla media Italia (56,9% contro 47,6%).
+
+     L’ISTAT stima che, in termini di costi sociali, l’incidentalità stradale riferita all’anno 2023 con lesioni
+       alle persone è stimato in 17 miliardi e 700 milioni di euro per l’intero territorio nazionale, ossia 300
+     euro pro capite. Se ci riferiamo alla Regione Calabria i costi complessivi ammontano a 431 milioni
+       di euro, corrispondenti a 234 euro pro capite.
+
+=== PAGINA 37 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        37 di 42
+
+
+     Tra il 2022 e il 2023 l’indice di lesività (numero di feriti ogni 100 incidenti) diminuisce da 157,0 a
+     154,4 e quello di gravità (misurato dal rapporto tra il numero dei decessi e la somma di decessi e
+        feriti moltiplicato 100) aumenta passando da 1,6 a 2,4, così come l’indice di mortalità, che passa
+     da 2,6 a 3,8 decessi ogni 100 incidenti negli stessi anni.
+
+      L’incidentalità rimane alta lungo la costa e nei comuni capoluogo di provincia: ancora in evidenza
+       le criticità della SS106 Jonica, lungo la quale si registra il maggior numero di incidenti (239, 15
+     decessi e 443 feriti), e delle strade SS18 e SS107, mentre gli incidenti più gravi si registrano sulla
+    SS713 Traversale delle Serre (dove si rilevano 3 decessi su 3 incidenti) e sulla SS682 Ionio-
+      Tirreno (dove gli indici di mortalità e di gravità raggiungono rispettivamente 25,0 e 10,8).
+
+      L’indice di mortalità cresce nelle province di Vibo Valentia, Catanzaro e Reggio di Calabria,
+     diminuisce in quelle di Crotone e Cosenza.
+
+
+
+
+
+                     Figura 10 – Incidentalità stradale in Calabria: Indici (Fonte ISTAT)
+
+
+
+
+
+12.2 Potenziale dell’infrastruttura
+
+=== PAGINA 38 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       38 di 42
+
+
+    La  linea  ferroviaria  tra Catanzaro  L. e Reggio  Calabria  si  sviluppa  per  circa 178 km
+    prevalentemente ad un solo binario: è a doppio binario la sola tratta Melito Porto Salvo-Reggio
+     Calabria per circa 30 km.
+
+    La linea è classificata con rango B e presenta velocità variabili, ma che raggiungono in alcuni tratti
+          i 140 km/h.
+
+     Si riportano di seguito gli estratti del Fascicolo Orario.
+
+=== PAGINA 39 ===
+                               DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                               PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                      DI POLO
+
+
+“Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                       39 di 42
+
+
+
+
+
+     Figura 11 – Attuali velocità del tracciato
+                  ferroviario
+
+=== PAGINA 40 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        40 di 42
+
+
+         I limiti di velocità espressi per ranghi non costituiscono le uniche limitazioni di velocità esistenti
+      nella circolazione ferroviaria, ma rappresentano solo quelle relative al comfort ed alla sicurezza di
+     marcia in linea.
+
+    È plausibile ritenere che per   il miglioramento delle caratteristiche prestazionali della linea
+      ferroviaria a vantaggio del traffico viaggiatori, si possa in futuro intervenire sul sottosistema
+     armamento, sulla segnaletica e sui sistemi di controllo della velocità per consentire l'utilizzo di
+       treni appartenenti alla categoria di rango C. Questo significa che la tratta ferroviaria può essere
+     adeguata per permettere la circolazione di treni viaggiatori che possono raggiungere velocità
+      superiori a 160 km/h.
+
+      In questo scenario futuro, non poter contare su una linea ferroviaria elettrificata costituirebbe un
+      vincolo alla velocità massima dei convogli: per  i convogli diesel ad assetto costante la velocità
+    massima è fissata in 130 km/h 2.
+
+      Si pensi al caso in cui si volesse istituire una nuova relazione con materiale rotabile AV per
+      collegare, con servizi veloci, i principali capoluoghi attraversati dalla direttrice jonica, occorrerebbe
+      assicurare la trazione elettrica dei convogli e quindi prevedere l’elettrificazione completa della
+      linea.
+
+     La maggiore velocità dei convogli ferroviari si tradurrebbe in minori tempi di percorrenza ed in una
+     maggiore competitività del vettore ferroviario che potrebbe acquisire nuove quote della domanda
+       di mobilità dei passeggeri, in particolare per percorrenze medio-lunghe.
+
+      In altri termini, una volta elettrificata la direttrice ed istituito il rango C, si potrebbe prefigurare uno
+     scenario di offerta per  il segmento viaggiatori caratterizzato da un servizio a lunga percorrenza
+     con velocità massime a 200km/h ed un servizio merci. In questo scenario, il modello di esercizio
+     potrebbe prevedere:
+
+     o   4 treni/ora per servizio regionale fino a 160 km/h a rango C;
+
+     o   2 treni/ora per servizio di lunga percorrenza fino a 200 km/h a rango C;
+
+     o   2 treni/ora per servizio merci (2 treni in fascia notturna).
+
+    A supporto di questa ipotesi si prevede l’impiego del seguente materiale rotabile:
+
+      •  per  i servizi regionali, materiale rotabile regionale elettrico di tipo Pop a 4 casse in singola
+        composizione già a conclusione degli interventi di elettrificazione, non escludendo comunque
+           l’utilizzo, in una fase transitoria, di treni ibridi di ultima generazione (tipo “Blues”) per servizi
+          regionali; la velocità massima per entrambe le tipologie è di 160 Km/h.
+
+      •  per  i servizi di lunga percorrenza, elettrotreni di ultima generazione, con velocità fino a 200
+       km/h in doppia composizione.
+
+      •  per i servizi universali (IC) si potrà prevedere una composizione di E402+ 6/8 carrozze per una
+        lunghezza massima di 200 m.
+
+     La circolazione di convogli merci, in analogia con altre direttrici di traffico, potrà essere effettuata
+     con motrici elettriche in grado di trainare convogli aventi lunghezza pari a 550 m e massa
+      rimorchiata pari a 2200 t.
+
+
+
+
+
+2 Solo per i treni ATR 365/465 a trazione diesel, ma ad assetto variabile, è consentita velocità pari a 160 km/h.
+
+=== PAGINA 41 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        41 di 42
+
+
+12.3 Caratteristiche del materiale rotabile elettrico
+
+         I servizi a carattere regionale che vengono effettuati sulla direttrice jonica, utilizzano automotrici
+      diesel del tipo Aln668. Ancorché la Regione si sia attrezzata con treni ibridi Blues 3 per gestire la
+     fase transitoria del programma di elettrificazione, occorre considerare che, a regime, con le linee
+      della Regione tutte elettrificate,  il maggior costo di acquisto e di gestione del materiale rotabile
+      ibrido comporterà il mancato rinnovo della flotta e la definitiva transizione verso materiale rotabile
+       elettrico.
+
+          Il materiale a trazione diesel, oltre a presentare un importante livello di obsolescenza, offre
+      prestazioni inferiori al materiale elettrico attualmente in produzione, sia in termini di velocità che
+       di accelerazione, oltre che di capacità di trasporto.
+
+      Nella tabella che segue sono messe a confronto le caratteristiche delle automotrici Aln 668 serie
+     3000 a trazione diesel e quelle del treno POP (ETR 103) a trazione elettrica:
+
+                     Dati Tecnici                 Aln 668 serie 3000         ETR 103 (POP)
+     Trazione:                                            Diesel                          Elettrico
+     Anni di costruzione:                            1980                     2018
+    Numero di unità costruite/in costruzione:           40                      340
+     Velocità massima:                            130 Km\h                 160 Km\h
+     Posti a sedere:                          8 di 1^Cl e 60 di 2^Cl    384 posti (di cui 239 a sedere)
+
+
+                         Tabella 10 – Confronto materiale rotabile diesel ed elettrico
+
+     Occorre altresì considerare che   il materiale elettrico  si contraddistingue per una maggiore
+     accelerazione in partenza, elemento che riveste importanza per i servizi regionali più diffusi che
+     prevedono stazioni/fermate a distanze mediamente di circa 7 km.
+
+
+
+12.4 Ottimizzazione del processo produttivo del trasporto
+
+     La compresenza di un doppio sistema di trazione dei convogli ferroviari costituisce indubbiamente
+     una complessità nella gestione del servizio ferroviario regionale. Occorre infatti prevedere per le
+      diverse tipologie dei rotabili depositi, impianti di manutenzione ordinaria e ciclica, impianti di
+      rifornimento carburanti distinti. A questa complessità infrastrutturale si aggiunge la necessità di
+     avere squadre di manutentori che siano formate per interventi diversi su materiali rotabili a diversa
+      alimentazione.
+
+      Altro aspetto che rende complessa la gestione dell’esercizio ferroviario da parte delle imprese di
+      trasporto è connesso alla necessità di prevedere due distinti turni del materiare rotabile con
+      evidenti diseconomie in termini di fabbisogno di rotabili, corse a vuoto, ecc.
+
+     La Regione Calabria ha una flotta che complessivamente conta circa 70 rotabili e l’Impresa
+      Ferroviaria a cui è affidato  il TPL ha in dotazione due impianti di manutenzione: a Reggio C.
+      destinato al materiale elettrico ed a Catanzaro L. destinato al materiale diesel. È evidente che, in
+     caso  di mancato completamento  del programma  di  elettrificazione e  quindi  di mancata
+      realizzazione dell’elettrificazione della tratta Roccella J.-Melito P.S., si verrebbero a creare delle
+
+3 I treni Blues ibridi viaggiano con motori diesel su linee non elettrificate e con pantografo sulle linee elettrificate.
+
+=== PAGINA 42 ===
+                                DIREZIONE STRATEGIE, SOSTENIBILITÀ E
+                                PIANIFICAZIONE SVILUPPO INFRASTRUTTURE
+                                                       DI POLO
+
+
+ “Elettrificazione linea Catanzaro Lido – Roccella Jonica” - ANALISI OPZIONI REALI                     PAGINA
+                                                                                                        42 di 42
+
+
+     diseconomie nella gestione del materiale a trazione diesel che seppure più prossimo all’impianto
+       di Reggio Calabria dovrebbe ricoverarsi nell’impianto di Catanzaro L.
+
+     Analoghe considerazioni a quelle di natura economica, possono essere fatte sotto  il profilo
+     ambientale. In un ipotetico scenario che vede la tratta ferroviaria Roccella J.-Melito Porto Salvo
+     ancora a trazione diesel, la necessità di assicurare  il servizio ferroviario comporterebbe che  i
+      convogli diesel diretti al deposito di Catanzaro L. dovrebbero percorrere tratte elettrificate.
+
+    Sempre in tema ambientale, con l’obiettivo di ridurre le emissioni di GHGs e inquinanti, si segnala
+     che l’Impresa Ferroviaria ha di recente sperimentato l’utilizzo di carburanti HVO 4 su tratte ancora
+     a trazione diesel nelle regioni Toscana e Veneto. La sperimentazione ha evidenziato consumi
+      superiori del 20% rispetto al normale gasolio; costi dei carburanti a cui si devono aggiungere
+     anche quelli dell’additivo. Le stime economiche complessivamente hanno evidenziato costi di
+      trazione dei carburanti HVO superiori di circa  il 30% rispetto al gasolio a riprova delle difficoltà
+      nell’abbattimento delle emissioni nocive per l’ambiente e per il riscaldamento globale.
+
+       Infine, si evidenzia che con l’elettrificazione dell’intera rete regionale calabra, verrebbero dismessi
+            i punti di distribuzione del carburante e sarebbero cessanti i relativi costi di gestione.
+
+
+
+
+
+4 L'HVO (Hydrotreated Vegetable Oil) è un carburante diesel rinnovabile, prodotto da oli vegetali e grassi animali
+  tramite un processo di idrotrattamento. È un'alternativa al diesel tradizionale con vantaggi ambientali,
+ riducendo significativamente le emissioni di CO2.
