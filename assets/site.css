@@ -5,6 +5,13 @@
 .oe-hero__caption { z-index: 2; }
 .report-card { display: flex; min-height: 290px; flex-direction: column; align-items: flex-start; text-decoration: none; }
 .report-card .oe-card__text { margin-bottom: 24px; }
+.report-card__takeaway { margin: auto 0 24px; padding: 16px 0 0; border-top: 1px solid var(--oe-gray-200); color: var(--oe-fg-soft); font-size: 16px; line-height: 1.5; }
+.report-card__takeaway strong { display: block; margin-bottom: 6px; color: var(--oe-accent); font: 500 12px var(--oe-font-mono); letter-spacing: .08em; text-transform: uppercase; }
+.home-hero { grid-template-columns: minmax(420px, .82fr) minmax(0, 1.18fr); min-height: 680px; }
+.home-hero .oe-hero__body { position: relative; z-index: 3; }
+.home-hero .oe-hero__media { min-width: 0; }
+.home-hero .oe-hero__media img { object-position: 58% center; }
+.home-hero .oe-hero__media::before { background: linear-gradient(90deg, var(--oe-bg-dark) 0%, rgba(39,0,101,.5) 18%, rgba(39,0,101,.08) 55%, rgba(39,0,101,.22) 100%); }
 .report-link, .macro-card__action { display: inline-flex; align-items: center; gap: 10px; color: var(--oe-accent); font-weight: 700; }
 .report-link { margin-top: auto; }
 .report-link svg, .macro-card__action svg { width: 18px; height: 18px; }
@@ -17,4 +24,5 @@
 .macro-card__body strong { font-family: var(--oe-font-serif); font-size: clamp(21px, 2.4vw, 30px); font-weight: 400; }
 .macro-card__body > span:last-child { color: var(--oe-fg-soft); }
 .closing-note { max-width: 68ch; margin: 0; font-size: 18px; line-height: 1.7; }
+@media (max-width: 960px) { .home-hero { grid-template-columns: 1fr; min-height: auto; } .home-hero .oe-hero__media { min-height: clamp(300px, 60vw, 520px); } .home-hero .oe-hero__media::before { background: linear-gradient(180deg, rgba(39,0,101,.05), rgba(39,0,101,.7)); } }
 @media (max-width: 700px) { .macro-card { grid-template-columns: 48px 1fr; gap: 16px; padding: 20px; } .macro-card__icon { width: 48px; height: 48px; } .macro-card__action { grid-column: 2; } .report-card { min-height: auto; } }
